@@ -15,9 +15,9 @@ description: Research Team
             Email: <code>ec426@njit.edu</code><br/>
 			BSc, MSc in Computer Science | University of Tirana, Albania <br/>
 			Research interests: optimization, machine learning to solve problems in different disciplines, such as healthcare, power systems, or supply chain.<br/>
-            [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Elson Cibaku_CV.pdf)<br/>
+            <a href="{{ BASE_PATH }}/Elson Cibaku_CV.pdf" target="_blank">Curriculum vitae <img src="icons16/pdf-icon.png" alt="PDF" /></a>
             </div>
-        </div>
+        </div>	
 
         <div class="span2">
 		<a href="../pics/Elson_Cibaku.jpeg">
