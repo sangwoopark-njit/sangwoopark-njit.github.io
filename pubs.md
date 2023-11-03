@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 description: SangWoo Park's publications
 ---
 
@@ -58,7 +58,7 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
-[Online Link:] (https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
+[Online Link:](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
 
 
 
