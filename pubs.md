@@ -64,6 +64,12 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 
 ### <a name="techreports"></a>Technical Reports
 
+Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., Park, S., Ouyang, Y., 
+“Planning Transmission for Uncertainty: Applications and Lessons with the Western Interconnection” 
+– Technical Report prepared for WECC and Lawrence Berkeley National Laboratory, 2016.
+
+
+
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
