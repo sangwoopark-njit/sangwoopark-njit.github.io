@@ -20,8 +20,8 @@ description: Research Team
         </div>
 
         <div class="span2">
-		<a href="../pics/Elson_Cibaku.jpg">
-			<img src="../pics/Elson_Cibaku.jpg"
+		<a href="../pics/Elson_Cibaku.png">
+			<img src="../pics/Elson_Cibaku.png"
 				title="Elson Cibaku" alt="Elson Cibaku"/></a>
 		</div>
     </div>
@@ -37,10 +37,10 @@ description: Research Team
             [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bahareh Kargar_CV.pdf)<br/>
             </div>
         </div>
-
+		
         <div class="span2">
-		<a href="../pics/Bahareh_Kargar.jpg">
-			<img src="../pics/Bahareh_Kargar.jpg"
+		<a href="../pics/Bahareh_Kargar.png">
+			<img src="../pics/Bahareh_Kargar.png"
 				title="Bahareh Kargar" alt="Bahareh Kargar"/></a>
 		</div>
     </div>
