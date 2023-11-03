@@ -45,3 +45,30 @@ description: Research Team
 		</div>
     </div>
 </div>
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            SangWoo Park<br/>
+            <a href="https://people.njit.edu/faculty/sp2957">NJIT website</a><br/>
+            <a href="https://www.njit.edu/">New Jersey Institute of Technology</a><br/>
+            Fenster Hall 266<br/>
+            323 Dr Martin Luther King Jr Blvd<br/>
+            Newark, NJ 07103<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>sangwoo.park@njit.edu</code><br/>
+            Phone: (973) 642-4108
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../pics/SangWoo_Park.jpg">
+            <img src="../pics/SangWoo_Park.jpg"
+                  title="SangWoo Park" alt="SangWoo Park"/></a>
+        </div>
+    </div>
+</div>
