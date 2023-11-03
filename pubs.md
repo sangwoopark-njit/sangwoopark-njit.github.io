@@ -76,7 +76,7 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
-[Online Link](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
+[![pdf](icons16/pdf-icon.png)](https://digitalcommons.georgiasouthern.edu/pmhr_2023/6/)
 
 **Park, S.**, Gama. F., Lavaei, J., Sojoudi, S., “Distributed Power System State Estimation using Graph Convolutional Neural Networks,” 2021, Hawaii International Conference on Systems Sciences.
 [![pdf](icons16/pdf-icon.png)](https://scholarspace.manoa.hawaii.edu/items/ab8e380f-f79e-42ae-935b-3c46a260db03)
