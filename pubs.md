@@ -67,6 +67,7 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., Park, S., Ouyang, Y., 
 “Planning Transmission for Uncertainty: Applications and Lessons with the Western Interconnection” 
 – Technical Report prepared for WECC and Lawrence Berkeley National Laboratory, 2016.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Planning-for-Uncertainty-Final-Report.pdf)<br/>
 
 
 
