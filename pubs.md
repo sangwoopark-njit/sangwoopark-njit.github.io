@@ -40,26 +40,49 @@ Cibaku, E., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Ro
 
 ### <a name="articles"></a>Journal Articles
 
-#### 2023
+#### 2022
 
-Zhang Q, Linke V, Overmyer KA, Traeger LL, Kasahara K, Miller IJ, Manson DE, Polaske TJ,
-Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS,
-Rabaglia ME, Seldin M, Gatti DM, Keele GR, Pham DT, Gerdt JP, Vivas EI, Lusis AJ,
-Keller MP, Churchill GA, Blackwell HE, **Broman KW**, Attie AD, Coon
-JJ, Rey FE (2023)
-Genetic mapping of microbial and host traits reveals production of
-immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
-[Nat Microbiol](https://www.nature.com/nmicrobiol/) 8:424-440
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/36759753/)
-[![pdf](icons16/pdf-icon.png)](https://www.nature.com/articles/s41564-023-01326-w.pdf)
-[![doi](icons16/doi-icon.png)](https://doi.org/10/jz3m)
-<!-- * 171 * -->
-<!-- https://doi.org/10/jz3m -->
+**Park, S.**, Glista, E., Lavaei, J., Sojoudi, S., “An Efficient Homotopy Method for Solving the Post-contingency Optimal 
+Power Flow to Global Optimality,” IEEE Access, vol.10, 2022. 
+
+Mulvaney-Kemp, J., **Park, S.**, Jin, M., Lavaei, J., “Dynamic Regret Bounds for Online Nonconvex Optimization,” 
+IEEE Transactions on Control of Network Systems, vol.10(2), pp. 599-611, 2022.
+
+Zhang, H., **Park, S.**, Lavaei, J., Baldick, R., “Uniqueness of Power Flow Solutions Using Graph-theoretic Notions,” 
+IEEE Transactions on Control of Network Systems, vol.9(1), pp. 100-112, 2022.
+
+#### 2021
+**Park, S.**, Mohammadi-Ghazi, R., Lavaei, J., “Nonlinear Least Absolute Value Estimator for Topology Error Detection and Robust State Estimation,” 
+IEEE Access, vol.9, pp. 137198-137210, 2021. 
+
+#### 2020
+**Park, S.**, Zhang, R.Y., Lavaei, J., Baldick, R., “Uniqueness of Power Flow Solutions Using Monotonicity and Network Topology,” 
+IEEE Transactions on Control of Network Systems, vol.8(1), pp. 310-330, 2020. 
+
+#### 2019
+**Park, S.**, Xu, Q., Hobbs, B.R., “Comparing Scenario Reduction Methods for Stochastic Transmission Planning,” 
+IET Generation, Transmission & Distribution, vol.13(7), pp. 1005-1013, 2019.
+
+#### 2016
+Hobbs, B.F., Xu, Q., Ho, J.L., Donohoo-Vallett, P.E., Kasina, S., Ouyang, Y., **Park, S.**, Eto, J., Satyal, V., “Adaptive Transmission Planning: Implementing a New Paradigm for Managing Economic Risks in Grid Expansion,” 
+IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
 [Online Link](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
 
+**Park, S.**, Gama. F., Lavaei, J., Sojoudi, S., “Distributed Power System State Estimation using Graph Convolutional Neural Networks,” 2021, Hawaii International Conference on Systems Sciences.
+-	Online link: https://lavaei.ieor.berkeley.edu/GNN_P_2021_1.pdf 
+
+**Park, S.**, Mulvaney-Kemp, J., Jin, M., Lavaei, J., “Diminishing regret for online nonconvex optimization,” American Controls Conference (ACC) 2021.
+
+**Park, S.**, Glista, E., Lavaei, J., Sojoudi, S., “Homotopy Method for Finding the Global Solution of Post-contingency Optimal Power Flow,” American Controls Conference (ACC) 2020.
+
+**Park, S.**, Mohammadi-Ghazi, R., Lavaei, J., “Topology Error Detection and Robust State Estimation Using Nonlinear Least Absolute Value,” American Controls Conference (ACC) 2019.
+
+**Park, S.**, Zhang, R.Y., Lavaei, J., Baldick, R., “Monotonicity Between Phase Angles and Power Flow and Its Implications for the Uniqueness of Solutions,” Hawaii International Conference on Systems Sciences, 2019.
+
+Hobbs, B.F., Ho, J.L., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, Ouyang, Y., “What is the Benefit of Including Uncertainty in Transmission Planning? A WECC Case Study,” Hawaii International Conference on Systems Sciences (HICSS) 2016.
 
 
 ### <a name="techreports"></a>Technical Reports
