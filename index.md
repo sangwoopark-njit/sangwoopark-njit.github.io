@@ -52,13 +52,16 @@ to operate in a safe and economic way.
 
 <style>
   .red-banner {
-    background-color: crimson;
-    color: white;
-    padding: 10px;
-    text-align: center;
-  }
-  
+   background-color: crimson;
+   color: white;
+   padding: 20px; /* Increase the padding for more space */
+   text-align: center;
+   display: flex; /* Use flexbox for vertical centering */
+   align-items: center; /* Vertically center the content */
+   font-size: 20px; /* Adjust the font size as needed */
+   }
+
   .figure {
     margin-bottom: 20px; /* Adjust the margin as needed */
-  }
+   }
 </style>
