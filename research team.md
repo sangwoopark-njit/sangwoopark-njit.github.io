@@ -20,8 +20,8 @@ description: Research Team
         </div>
 
         <div class="span2">
-		<a href="../pics/Elson_Cibaku.png">
-			<img src="../pics/Elson_Cibaku.png"
+		<a href="../pics/Elson_Cibaku.jpeg">
+			<img src="../pics/Elson_Cibaku.jpeg"
 				title="Elson Cibaku" alt="Elson Cibaku"/></a>
 		</div>
     </div>
