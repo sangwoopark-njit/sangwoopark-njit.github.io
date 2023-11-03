@@ -28,7 +28,17 @@ description: SangWoo Park's publications
 [![R/qtl](icons16/R-icon.png)](https://rqtl.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
-### <a name="articles"></a>journal articles
+### <a name="preprints"></a>Preprints
+Cibaku, E., Park, S., “Efficient Power System State Estimation Using Graph Convolutions and Attentions,” in preparation.
+
+Kargar, B., Park, S., “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” in preparation.
+
+Cibaku, E., Park, S., Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation.
+
+Park, S., Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” submitted to Power Systems Computation Conference (PSCC) 2024.
+
+
+### <a name="articles"></a>Journal Articles
 
 #### 2023
 
@@ -46,8 +56,13 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 <!-- * 171 * -->
 <!-- https://doi.org/10/jz3m -->
 
+### <a name="conference"></a>Conference Proceedings
+**Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
+-	Online link: https://digitalcommons.georgiasouthern.edu/pmhr_2023/
 
-### <a name="techreports"></a>technical reports and preprints
+
+
+### <a name="techreports"></a>Technical Reports
 
 **Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
