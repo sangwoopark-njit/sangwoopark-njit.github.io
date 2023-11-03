@@ -1,29 +1,19 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: SangWoo Park is an Assistant Professor at New Jersey Institute of Technology
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) and [R/qtl2](https://kbroman.org/qtl2) (for
-[R](https://www.r-project.org)).
+Sangwoo Park is an Assistant Professor in the
+[Department of Mechanical &amp; Industrial Engineering](https://mie.njit.edu/)
+at the New Jersey Institute of Technology 
 
-Karl received a BS in [mathematics](https://uwm.edu/math)
-in 1991 from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](https://statistics.berkeley.edu) in 1997 from the
+SangWoo received the B.S. in [Environmental Engineering](https://publichealth.jhu.edu/departments/environmental-health-and-engineering)
+in 2016 from the Johns Hopkins University, and a
+PhD in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) in 2022 from the
 University of California, Berkeley; his PhD advisor was
-[Terry Speed](https://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](https://www.marshfieldresearch.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics)
-at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+[Javad Lavaei](https://lavaei.ieor.berkeley.edu/).
+
 
 Karl is an applied statistician focusing on problems in genetics and
 genomics, particularly the analysis of meiotic recombination and the

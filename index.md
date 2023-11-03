@@ -45,3 +45,12 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 <div class="red-banner">
   <p>This is a red banner at the bottom of the page.</p>
 </div>
+
+<style>
+  .red-banner {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+</style>
