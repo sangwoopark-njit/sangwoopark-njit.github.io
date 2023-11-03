@@ -41,9 +41,7 @@ he/him
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>sangwoo.park@njit.edu</code><br/>
             Phone: (973) 642-4108
             </div>
         </div>
