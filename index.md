@@ -18,7 +18,7 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 
 <table class="wide">
 <tr>
-  <img src="publpics/mppdiag_fig4.png" alt="Broman et al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+  <img src="publpics/smart_city_01.jpg" alt="Broman et al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
 </tr>
 <tr>
   <td class="left">
