@@ -21,7 +21,7 @@ in mathematical modeling and numerical simulations. We have two fully-funded Ph.
 Highly motivated Masters students are also welcome to participate in our research. 
 If you are interested in working with me, please contact me at sangwoo.park@njit.edu. 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/broman_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Resume2023_SangWoo Park.pdf)<br/>
 [google scholar](https://scholar.google.com/citations?user=SVniSskAAAAJ&hl=en)<br/>
 he/him
 
