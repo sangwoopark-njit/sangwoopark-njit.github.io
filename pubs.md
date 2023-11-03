@@ -44,6 +44,7 @@ Cibaku, E., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Ro
 
 **Park, S.**, Glista, E., Lavaei, J., Sojoudi, S., “An Efficient Homotopy Method for Solving the Post-contingency Optimal 
 Power Flow to Global Optimality,” IEEE Access, vol.10, 2022. 
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9966487)
 
 Mulvaney-Kemp, J., **Park, S.**, Jin, M., Lavaei, J., “Dynamic Regret Bounds for Online Nonconvex Optimization,” 
 IEEE Transactions on Control of Network Systems, vol.10(2), pp. 599-611, 2022.
@@ -93,7 +94,7 @@ Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, 
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Planning-for-Uncertainty-Final-Report.pdf)<br/>
 
 
-### <a name="thesis"></a>dissertation
+### <a name="thesis"></a>Dissertation
 
 **Park, S.** (2022) Computational Methods for the Design and Operations of Electric Power Systems: Towards Resiliency 
 and Security.  PhD dissertation, Department of Industrial Engineering and Operations Research,
