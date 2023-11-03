@@ -35,7 +35,7 @@ Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Prici
 
 Cibaku, E., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation.
 
-**Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” submitted to Power Systems Computation Conference (PSCC) 2024.
+**Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” submitted to Power Systems Computation Conference (PSCC) 2024. <br>
 
 
 ### <a name="articles"></a>Journal Articles
