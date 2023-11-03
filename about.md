@@ -35,7 +35,7 @@ he/him
             SangWoo Park<br/>
             <a href="https://people.njit.edu/faculty/sp2957">NJIT website</a><br/>
             <a href="https://www.njit.edu/">New Jersey Institute of Technology</a><br/>
-            Fenster Hall 266</a><br/>
+            Fenster Hall 266<br/>
             323 Dr Martin Luther King Jr Blvd<br/>
             Newark, NJ 07103<br/>
             USA<br/><br/>
