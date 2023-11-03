@@ -10,7 +10,7 @@ at the New Jersey Institute of Technology.
 
 I received a B.S. in [Environmental Engineering](https://publichealth.jhu.edu/departments/environmental-health-and-engineering)
 in 2016 from the Johns Hopkins University, and a
-PhD in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) in 2022 from the
+Ph.D. in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) in 2022 from the
 University of California, Berkeley; My PhD advisor was
 [Javad Lavaei](https://lavaei.ieor.berkeley.edu/). My research focuses on designing and analyzing algorithms for 
 complex and large scale optimization problems, mainly related to electric power systems, transportation systems,
