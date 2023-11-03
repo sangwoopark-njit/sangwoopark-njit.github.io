@@ -13,12 +13,20 @@ description: Research Team
 
             <div id="hide_email">
             Email: <code>ec426@njit.edu</code><br/>
-			BSc, MSc in Computer Science | University of Tirana, Albania
+			BSc, MSc in Computer Science | University of Tirana, Albania <br/>
 			Research interests: optimization, machine learning to solve problems in different disciplines, such as healthcare, power systems, or supply chain.
             [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Elson Cibaku_CV.pdf)<br/>
             </div>
         </div>
 
+        <div class="span2">
+		<a href="../pics/Elson_Cibaku.jpg">
+		<img src="../pics/Elson_Cibaku.jpg"
+			  title="Elson Cibaku" alt="Elson Cibaku"/></a>
+		</div>
+    </div>
+	
+	<div class="row-fluid">
         <div class="span5">
             Bahareh Kargar<br/>
 
@@ -29,5 +37,11 @@ description: Research Team
             [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bahareh Kargar_CV.pdf)<br/>
             </div>
         </div>
+
+        <div class="span2">
+		<a href="../pics/Bahareh_Kargar.jpg">
+		<img src="../pics/Bahareh_Kargar.jpg"
+			  title="Bahareh Kargar" alt="Bahareh Kargar"/></a>
+		</div>
     </div>
 </div>
