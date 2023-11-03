@@ -18,10 +18,14 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 
 <table class="wide">
 <tr>
-  <img src="publpics/smart_city_01.jpg" alt="Broman et al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+  <img src="publpics/smart_city_01.jpg" alt="" title=""/>
 </tr>
 </table>
 
+At OptiML-Lab, we utilize optimization theory, machine learning and domain specific knowledge to develop innovative 
+computational methods that are scalable and reliable. With main applications in power systems and 
+transportation systems, our research provide innovative solutions that help large-scale industrial systems 
+to operate in a safe and economic way.
 <!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -31,7 +35,7 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 </div> -->
 
 <div class="red-banner">
-  <p>This is a red banner at the bottom of the page.</p>
+  <p>NJIT OptiML-Lab</p>
 </div>
 
 <style>

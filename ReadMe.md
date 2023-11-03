@@ -1,6 +1,4 @@
-## Karl Broman&rsquo;s website
-
-See [kbroman.org](https://kbroman.org).
+## SangWoo Park&rsquo;s website
 
 ---
 

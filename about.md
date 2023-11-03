@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Principal Investigator
 description: SangWoo Park is an Assistant Professor at New Jersey Institute of Technology
 ---
 
