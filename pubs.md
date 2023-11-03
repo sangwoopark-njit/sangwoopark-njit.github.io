@@ -29,13 +29,13 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints
-Cibaku, E., Park, S., “Efficient Power System State Estimation Using Graph Convolutions and Attentions,” in preparation.
+Cibaku, E., **Park, S.**, “Efficient Power System State Estimation Using Graph Convolutions and Attentions,” in preparation.
 
-Kargar, B., Park, S., “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” in preparation.
+Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” in preparation.
 
-Cibaku, E., Park, S., Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation.
+Cibaku, E., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation.
 
-Park, S., Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” submitted to Power Systems Computation Conference (PSCC) 2024.
+**Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” submitted to Power Systems Computation Conference (PSCC) 2024.
 
 
 ### <a name="articles"></a>Journal Articles
@@ -58,7 +58,7 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
--	Online link: https://digitalcommons.georgiasouthern.edu/pmhr_2023/
+[Online Link:] (https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
 
 
 
