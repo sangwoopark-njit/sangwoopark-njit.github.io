@@ -58,46 +58,21 @@ immunomodulatory lipids by _Akkermansia muciniphila_ in the murine gut.
 
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
-[Online Link:](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
+[Online Link](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
 
 
 
 ### <a name="techreports"></a>Technical Reports
 
-Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., Park, S., Ouyang, Y., 
+Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, Ouyang, Y., 
 “Planning Transmission for Uncertainty: Applications and Lessons with the Western Interconnection” 
 – Technical Report prepared for WECC and Lawrence Berkeley National Laboratory, 2016.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Planning-for-Uncertainty-Final-Report.pdf)<br/>
 
 
-
-**Broman KW** (2010) Genetic map construction with R/qtl.  Technical report #214, Department of Biostatistics & Medical Informatics, University of Wisconsin-Madison
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
-
-<a name="hmm"></a>**Broman KW** (2006) Use of hidden Markov models
-for QTL mapping.  Working paper 125, Department of Biostatistics,
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](https://biostats.bepress.com/jhubiostat/paper125)
-[![pdf](icons16/pdf-icon.png)](https://biostats.bepress.com/cgi/viewcontent.cgi?article=1125&context=jhubiostat)
-
-<a name="ms0220"></a>Blades NJ, **Broman KW** (2002)
-Estimating the number of essential genes in a genome by random
-transposon mutagenesis.  Technical Report MS02-20, [Department of Biostatistics](https://www.biostat.jhsph.edu),
-Johns Hopkins University, Baltimore, MD
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ms0220.pdf)
-
-Bowman KO, Shenton LR, Kastenbaum MA, **Broman K** (1992)
-Overdispersion: Notes on discrete distributions.  Technical Report
-ORNL/TM-12167, Oak Ridge National Laboratory
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ornl_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/ornl_techreport.pdf)
-
 ### <a name="thesis"></a>dissertation
 
-**Broman KW** (1997) Identifying quantitative trait loci in
-experimental crosses.  PhD dissertation, Department of Statistics,
+**Park, S.** (2022) Computational Methods for the Design and Operations of Electric Power Systems: Towards Resiliency 
+and Security.  PhD dissertation, Department of Industrial Engineering and Operations Research,
 University of California, Berkeley
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+[![pdf](icons16/pdf-icon.png)](https://escholarship.org/uc/item/1m109050)
