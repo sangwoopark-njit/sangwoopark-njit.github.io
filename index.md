@@ -26,9 +26,15 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 
 <table class="wide">
 <tr>
-  <img src="publpics/smart_city_01.jpg" alt="" title=""/>
+  <td class="figure">	
+    <img src="publpics/smart_city_01.jpg" alt="" title=""/>
+  </td>
 </tr>
 </table>
+
+.figure {
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
 
 At OptiML-Lab, we utilize optimization theory, machine learning and domain specific knowledge to develop innovative 
 computational methods that are scalable and reliable. With main applications in power systems and 
