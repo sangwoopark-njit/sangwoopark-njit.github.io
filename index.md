@@ -12,7 +12,6 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-<link rel="icon" href="/favicon-16x16.png" type="image/png">
 
 <!-- <div class="navbar">
   <div class="navbar-inner">
