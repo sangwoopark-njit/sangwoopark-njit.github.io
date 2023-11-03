@@ -16,10 +16,10 @@ University of California, Berkeley; My PhD advisor was
 complex and large scale optimization problems, mainly related to electric power systems, transportation systems,
 and healthcare systems.
 
-I am looking for motivated students with a strong Math/CS/Stat/EE background or hands-on experience 
+<b>I am looking for motivated students with a strong Math/CS/Stat/EE background or hands-on experience 
 in mathematical modeling and numerical simulations. We have two fully-funded Ph.D. positions at NJIT. 
 Highly motivated Masters students are also welcome to participate in our research. 
-If you are interested in working with me, please contact me at sangwoo.park@njit.edu. 
+If you are interested in working with me, please contact me at sangwoo.park@njit.edu. <b>
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Resume2023_SangWoo Park.pdf)<br/>
 [google scholar](https://scholar.google.com/citations?user=SVniSskAAAAJ&hl=en)<br/>
