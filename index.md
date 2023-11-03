@@ -34,10 +34,10 @@ keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, En
 </tr>
 </table>
 
-<div class="navbar">
+<!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="morefigs.html">more figures</a></li>
       </ul>
-  </div>
+  </div> -->
 </div>
