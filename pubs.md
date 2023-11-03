@@ -79,18 +79,22 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 [Online Link](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
 
 **Park, S.**, Gama. F., Lavaei, J., Sojoudi, S., “Distributed Power System State Estimation using Graph Convolutional Neural Networks,” 2021, Hawaii International Conference on Systems Sciences.
-[Online Link](https://lavaei.ieor.berkeley.edu/GNN_P_2021_1.pdf)
+[![pdf](icons16/pdf-icon.png)](https://scholarspace.manoa.hawaii.edu/items/ab8e380f-f79e-42ae-935b-3c46a260db03)
 
 **Park, S.**, Mulvaney-Kemp, J., Jin, M., Lavaei, J., “Diminishing regret for online nonconvex optimization,” American Controls Conference (ACC) 2021.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9482986)
 
 **Park, S.**, Glista, E., Lavaei, J., Sojoudi, S., “Homotopy Method for Finding the Global Solution of Post-contingency Optimal Power Flow,” American Controls Conference (ACC) 2020.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9147711)
 
 **Park, S.**, Mohammadi-Ghazi, R., Lavaei, J., “Topology Error Detection and Robust State Estimation Using Nonlinear Least Absolute Value,” American Controls Conference (ACC) 2019.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/8814813)
 
 **Park, S.**, Zhang, R.Y., Lavaei, J., Baldick, R., “Monotonicity Between Phase Angles and Power Flow and Its Implications for the Uniqueness of Solutions,” Hawaii International Conference on Systems Sciences, 2019.
+[![pdf](icons16/pdf-icon.png)](https://scholarspace.manoa.hawaii.edu/items/90aa45b5-13f6-420d-83eb-c6daf21932b7)
 
 Hobbs, B.F., Ho, J.L., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, Ouyang, Y., “What is the Benefit of Including Uncertainty in Transmission Planning? A WECC Case Study,” Hawaii International Conference on Systems Sciences (HICSS) 2016.
-
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/abstract/document/7427478)
 
 ### <a name="techreports"></a>Technical Reports
 
