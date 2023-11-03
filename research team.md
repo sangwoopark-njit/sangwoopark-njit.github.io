@@ -34,7 +34,7 @@ description: Research Team
             Email: <code>bk349@njit.edu</code><br/>
 			MS in Industrial Eng. | Iran University of Science and Tech <br/>
             Research interests: operations research, healthcare management, supply chain design. <br/>
-            [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bahareh Kargar_CV.pdf)<br/>
+            <a[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Bahareh Kargar_CV.pdf)</a><br/>
             </div>
         </div>
 		
@@ -49,6 +49,6 @@ description: Research Team
 
 <style>
   .row-fluid {
-    margin-bottom: 20px; /* Adjust the margin as needed */
+    margin-bottom: 30px; /* Adjust the margin as needed */
    }
 </style>
