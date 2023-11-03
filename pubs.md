@@ -48,32 +48,38 @@ Power Flow to Global Optimality,” IEEE Access, vol.10, 2022.
 
 Mulvaney-Kemp, J., **Park, S.**, Jin, M., Lavaei, J., “Dynamic Regret Bounds for Online Nonconvex Optimization,” 
 IEEE Transactions on Control of Network Systems, vol.10(2), pp. 599-611, 2022.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9875003)
 
 Zhang, H., **Park, S.**, Lavaei, J., Baldick, R., “Uniqueness of Power Flow Solutions Using Graph-theoretic Notions,” 
 IEEE Transactions on Control of Network Systems, vol.9(1), pp. 100-112, 2022.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9693202)
 
 #### 2021
 **Park, S.**, Mohammadi-Ghazi, R., Lavaei, J., “Nonlinear Least Absolute Value Estimator for Topology Error Detection and Robust State Estimation,” 
 IEEE Access, vol.9, pp. 137198-137210, 2021. 
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9559969)
 
 #### 2020
 **Park, S.**, Zhang, R.Y., Lavaei, J., Baldick, R., “Uniqueness of Power Flow Solutions Using Monotonicity and Network Topology,” 
 IEEE Transactions on Control of Network Systems, vol.8(1), pp. 310-330, 2020. 
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/9209189)
 
 #### 2019
 **Park, S.**, Xu, Q., Hobbs, B.R., “Comparing Scenario Reduction Methods for Stochastic Transmission Planning,” 
 IET Generation, Transmission & Distribution, vol.13(7), pp. 1005-1013, 2019.
+[![pdf](icons16/pdf-icon.png)](https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2018.6362?originator=ietauthorOffprint&identity=460271&timestamp=20200117123710&signature=3c5d4a07f5e0e823915be3ba650fce95&tinyUrl=http://ietdl.org/t/z8wql)
 
 #### 2016
 Hobbs, B.F., Xu, Q., Ho, J.L., Donohoo-Vallett, P.E., Kasina, S., Ouyang, Y., **Park, S.**, Eto, J., Satyal, V., “Adaptive Transmission Planning: Implementing a New Paradigm for Managing Economic Risks in Grid Expansion,” 
 IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/abstract/document/7491446)
 
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
 [Online Link](https://digitalcommons.georgiasouthern.edu/pmhr_2023/)
 
 **Park, S.**, Gama. F., Lavaei, J., Sojoudi, S., “Distributed Power System State Estimation using Graph Convolutional Neural Networks,” 2021, Hawaii International Conference on Systems Sciences.
--	Online link: https://lavaei.ieor.berkeley.edu/GNN_P_2021_1.pdf 
+[Online Link](https://lavaei.ieor.berkeley.edu/GNN_P_2021_1.pdf)
 
 **Park, S.**, Mulvaney-Kemp, J., Jin, M., Lavaei, J., “Diminishing regret for online nonconvex optimization,” American Controls Conference (ACC) 2021.
 
