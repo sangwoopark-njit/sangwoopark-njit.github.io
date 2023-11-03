@@ -34,17 +34,17 @@ he/him
         <div class="span5">
             SangWoo Park<br/>
             <a href="https://people.njit.edu/faculty/sp2957">NJIT website</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="6743msc.html">6743 Medical Sciences Center</a><br/>
-            1300 University Avenue<br/>
-            Madison, Wisconsin 53706<br/>
+            <a href="https://www.njit.edu/">New Jersey Institute of Technology</a><br/>
+            Fenster Hall 266</a><br/>
+            323 Dr Martin Luther King Jr Blvd<br/>
+            Newark, NJ 07103<br/>
             USA<br/><br/>
 
             <div id="hide_email">
             Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
             </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Phone: (973) 642-4108
             </div>
         </div>
 
