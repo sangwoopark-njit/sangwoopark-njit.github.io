@@ -36,7 +36,7 @@ Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Prici
 Cibaku, E., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation.
 
 **Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” submitted to Power Systems Computation Conference (PSCC) 2024. <br>
-
+<br><br>
 
 ### <a name="articles"></a>Journal Articles
 
@@ -74,6 +74,8 @@ Hobbs, B.F., Xu, Q., Ho, J.L., Donohoo-Vallett, P.E., Kasina, S., Ouyang, Y., **
 IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/abstract/document/7491446)
 
+<br><br><br>
+
 ### <a name="conference"></a>Conference Proceedings
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
 [![pdf](icons16/pdf-icon.png)](https://digitalcommons.georgiasouthern.edu/pmhr_2023/6/)
@@ -96,6 +98,8 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 Hobbs, B.F., Ho, J.L., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, Ouyang, Y., “What is the Benefit of Including Uncertainty in Transmission Planning? A WECC Case Study,” Hawaii International Conference on Systems Sciences (HICSS) 2016.
 [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/abstract/document/7427478)
 
+<br><br><br>
+
 ### <a name="techreports"></a>Technical Reports
 
 Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, Ouyang, Y., 
@@ -103,6 +107,7 @@ Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, 
 – Technical Report prepared for WECC and Lawrence Berkeley National Laboratory, 2016.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Planning-for-Uncertainty-Final-Report.pdf)<br/>
 
+<br><br><br>
 
 ### <a name="thesis"></a>Dissertation
 
