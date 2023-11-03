@@ -26,6 +26,7 @@ At OptiML-Lab, we utilize optimization theory, machine learning and domain speci
 computational methods that are scalable and reliable. With main applications in power systems and 
 transportation systems, our research provide innovative solutions that help large-scale industrial systems 
 to operate in a safe and economic way.
+
 <!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
