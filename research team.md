@@ -72,3 +72,9 @@ description: Research Team
         </div>
     </div>
 </div>
+
+<style>
+  .container {
+    margin-bottom: 20px; /* Adjust the margin as needed */
+   }
+</style>
