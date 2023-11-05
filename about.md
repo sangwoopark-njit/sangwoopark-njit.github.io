@@ -30,8 +30,8 @@ he/him
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
-    <div class="row">
-        <div class="col-md-5">
+    <div class="row-fluid">
+        <div class="span5">
             SangWoo Park<br/>
             <a href="https://people.njit.edu/faculty/sp2957">NJIT website</a><br/>
             <a href="https://www.njit.edu/">New Jersey Institute of Technology</a><br/>
@@ -46,7 +46,7 @@ he/him
             </div>
         </div>
 
-        <div class="col-md-7">
+        <div class="span2">
         <a href="../pics/SangWoo_Park.jpg">
             <img src="../pics/SangWoo_Park.jpg"
                   title="SangWoo Park" alt="SangWoo Park"/></a>
