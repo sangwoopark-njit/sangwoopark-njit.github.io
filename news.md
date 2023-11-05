@@ -10,13 +10,13 @@ description: SangWoo Park's news
     overflow: hidden;
     width: 100%; /* Set the desired width for your figure */
     height: 400px; /* Set the desired height for your figure */
-	margin-bottom: 20px; /* Adjust the margin as needed */
   }
 
   .figure img {
     width: 100%;
     height: 100%;
     object-fit: cover; /* Crop the image to fit the fixed dimensions */
+	margin-bottom: 20px; /* Adjust the margin as needed */
   }
 
   .buttons {
@@ -28,6 +28,7 @@ description: SangWoo Park's news
     display: flex;
     justify-content: space-between;
     align-items: center;
+	color: white;
   }
 
   .button {
