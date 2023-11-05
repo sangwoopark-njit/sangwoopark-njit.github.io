@@ -4,6 +4,14 @@ title: News
 description: SangWoo Park's news
 ---
 
+<table class="wide">
+<tr>
+  <td class="figure">	
+    <img src="publpics/njit_campus_01.jpg" alt="" title="njit_campus_01"/>
+  </td>
+</tr>
+</table>
+
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
 
 * April 2022: I have successfully defended my dissertation and received my Ph.D. from UC Berkeley IEOR.
