@@ -46,12 +46,12 @@ to operate in a safe and economic way.
 <tr>
   <td class="left">
     <a href="publpics/cyber-security.html">
-        <img src="publpics/IoT.jpg" alt="" title="", style="width: 100%; height: auto"/>
+        <img src="publpics/IoT.jpg" alt="" title="" style="width: 100%; height: auto"/>
     </a>
   </td>
   <td class="right">
     <a href="publpics/demand-response.html">
-        <img src="publpics/smart_home.jpg" alt="" title="", style="width: 100%; height: auto"/>
+        <img src="publpics/smart_home.jpg" alt="" title="" style="width: 100%; height: auto"/>
     </a>
   </td>
 </tr>

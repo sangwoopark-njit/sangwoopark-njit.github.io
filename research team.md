@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: Research Team 
+title: Research Team 
+description: SangWoo Park's Research Team 
 ---
 
 <div class="container">
