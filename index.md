@@ -99,12 +99,12 @@ to operate in a safe and economic way.
   .figure {
     flex: 1;
     margin-bottom: 20px; /* Adjust the margin as needed */
-	height: 300px; /* Set a fixed height for the figures */
+	height: 150px; /* Set a fixed height for the figures */
     overflow: hidden; /* Hide any overflowing content */
    }
   .figure img {
     width: 100%;
-    height: auto;
+    height: 100;
 	object-fit: cover; /* Crop the image to fit the fixed height */
   }
 </style>
