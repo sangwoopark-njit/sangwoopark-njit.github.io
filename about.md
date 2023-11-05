@@ -30,7 +30,7 @@ he/him
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
-    <div class="row-fluid">
+    <div class="row">
         <div class="col-md-5">
             SangWoo Park<br/>
             <a href="https://people.njit.edu/faculty/sp2957">NJIT website</a><br/>
