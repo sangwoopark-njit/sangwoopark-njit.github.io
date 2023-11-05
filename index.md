@@ -61,13 +61,13 @@ to operate in a safe and economic way.
   <div class="figure">
     <a href="publpics/cyber-security.html" class="hover-effect">
       <img src="publpics/IoT.jpg" alt="" title="">
-      <div class="hover-text">Your Text Here</div>
+      <div class="hover-text">Grid Cybersecurity</div>
     </a>
   </div>
   <div class="figure">
     <a href="publpics/demand-response.html" class="hover-effect">
       <img src="publpics/smart_home.jpg" alt="" title="">
-      <div class="hover-text">Your Text Here</div>
+      <div class="hover-text">Grid Flexibility</div>
     </a>
   </div>
 </div>
