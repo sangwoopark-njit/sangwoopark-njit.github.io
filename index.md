@@ -42,6 +42,20 @@ computational methods that are scalable and reliable. With main applications in 
 transportation systems, our research provide innovative solutions that help large-scale industrial systems 
 to operate in a safe and economic way.
 
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="publpics/IoT.html">
+        <img src="publpics/IoT.jpg" alt="" title=""/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="publpics/smart_home.html">
+        <img src="publpics/smart_home.jpg" alt="" title=""/>
+    </a>
+  </td>
+</tr>
+
 <!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
