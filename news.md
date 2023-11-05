@@ -18,43 +18,21 @@ description: SangWoo Park's news
   <button class="next-button" onclick="changeFigure(1)">&gt;</button>
 </div>
 
+
 <style>
-.figure-pane {
-  text-align: center;
-  position: relative;
-}
+  .figure-container {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+  }
 
-.figure-container {
-  display: flex;
-  overflow: hidden;
-}
-
-.figure {
-  width: 100%;
-  height: auto;
-  margin-bottom: 20px; /* Adjust the margin as needed */
-}
-
-.prev-button, .next-button {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  padding: 10px;
-  background-color: rgba(255, 255, 255, 0.5); /* Light color background */
-  color: #333; /* Dark arrow color */
-  border: none;
-  cursor: pointer;
-  font-size: 20px;
-}
-
-.prev-button {
-  left: 10px;
-}
-
-.next-button {
-  right: 10px;
-}
+  .figure {
+    flex: 1;
+	margin-bottom: 20px; /* Adjust the margin as needed */
+    transition: transform 0.3s ease;
+  }
 </style>
+
 
 <script>
   let currentFigureIndex = 0; // Initialize the current figure index
