@@ -8,7 +8,7 @@ description: SangWoo Park's news
   .figure-container {
     position: relative;
     overflow: hidden;
-    width: 400px; /* Set the desired width for your figure */
+    width: 100%; /* Set the desired width for your figure */
     height: 400px; /* Set the desired height for your figure */
   }
 
@@ -19,7 +19,14 @@ description: SangWoo Park's news
   }
 
   .buttons {
-    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 
   .button {
@@ -33,12 +40,12 @@ description: SangWoo Park's news
   <div class="figure">
     <img src="publpics/njit_campus_01.jpg" alt="njit_campus_01">
   </div>
+  <div class="buttons">
+    <button class="button prev-button" onclick="changeFigure(-1)">&lt;</button>
+    <button class="button next-button" onclick="changeFigure(1)">&gt;</button>
+  </div>
 </div>
 
-<div class="buttons">
-  <button class="button prev-button" onclick="changeFigure(-1)">&lt;</button>
-  <button class="button next-button" onclick="changeFigure(1)">&gt;</button>
-</div>
 
 <script>
   let currentFigureIndex = 0; // Initialize the current figure index
@@ -48,7 +55,6 @@ description: SangWoo Park's news
     'njit_campus_03.jpg',
     'njit_campus_04.jpg',
     'njit_campus_05.jpg',
-    'njit_campus_06.jpg',
   ]; // Provide the image file names for all your figures
 
   function changeFigure(step) {
