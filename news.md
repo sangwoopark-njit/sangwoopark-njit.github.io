@@ -55,6 +55,34 @@ description: SangWoo Park's news
 }
 </style>
 
+<script>
+  let currentFigureIndex = 0; // Initialize the current figure index
+
+  function changeFigure(step) {
+    // Update the current figure index based on the step (1 for next, -1 for previous)
+    currentFigureIndex += step;
+
+    // Get all figure elements
+    const figures = document.querySelectorAll('.figure');
+
+    // Wrap around if exceeding the figure count
+    if (currentFigureIndex < 0) {
+      currentFigureIndex = figures.length - 1;
+    } else if (currentFigureIndex >= figures.length) {
+      currentFigureIndex = 0;
+    }
+
+    // Calculate the transform value to swipe to the current figure
+    const transformValue = `translateX(-${currentFigureIndex * 100}%)`;
+
+    // Apply the transform to the figure container for the swiping effect
+    const figureContainer = document.querySelector('.figure-container');
+    figureContainer.style.transform = transformValue;
+  }
+
+  // Initially, show the first figure
+  changeFigure(0);
+</script>
 
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
 
