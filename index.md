@@ -2,7 +2,11 @@
 layout: frontpage
 title: SangWoo Park
 description: SangWoo Park is an Assistant Professor in Industrial Engineering at New Jersey Institute of Technology
-keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, Energy systems, Renewable Energy, Machine Learning 
+keywords: SangWoo, Park, Optimization, Nonconvex optimization, Power systems, Energy systems, Renewable Energy, Machine Learning,
+Research, UC Berkeley, NJIT, University of California Berkeley, New Jersey Institute of Technology, Optimal Power Flow,
+State Estimation, Nonlinear State Estimation, Topology Error Detection, Javad Lavaei, Ph.D., California, San Francisco,
+Math, Statisitics, AI, Reinforcement Learning, Demand Response, Power Flow, Security Constrained Optimal Power Flow,
+Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea. 
 ---
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
