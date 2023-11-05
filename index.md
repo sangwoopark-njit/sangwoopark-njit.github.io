@@ -99,7 +99,7 @@ to operate in a safe and economic way.
   .figure {
     flex: 1;
     margin-bottom: 20px; /* Adjust the margin as needed */
-	height: 150px; /* Set a fixed height for the figures */
+	height: 200px; /* Set a fixed height for the figures */
     overflow: hidden; /* Hide any overflowing content */
    }
   .figure img {
