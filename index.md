@@ -85,7 +85,7 @@ to operate in a safe and economic way.
   .red-banner {
    background-color: crimson;
    color: white;
-   padding: 10px 5px; /* Increase the padding for more space */
+   padding: 10px 5px 10px 5px; /* Increase the padding for more space */
    text-align: center;
    display: flex; /* Use flexbox for vertical centering */
    justify-content: center; /* Center vertically */
