@@ -3,6 +3,7 @@ layout: page
 title: News
 description: SangWoo Park's news
 ---
+
 August 2022: I have joined the New Jersey Institute of Technology as an Assistant Professor.
 
 April 2022: I have successfully defended my dissertation and received my Ph.D. from UC Berkeley IEOR.
