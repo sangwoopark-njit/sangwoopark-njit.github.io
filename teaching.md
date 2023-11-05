@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 description: SangWoo Park's teaching
 ---
 
