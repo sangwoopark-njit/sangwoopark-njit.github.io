@@ -59,7 +59,7 @@ to operate in a safe and economic way.
 ### <a name="projects"></a>Projects
 <div class="figure-container">
   <div class="figure">
-    <a href="publpics/cyber-security.html">
+    <a href="publpics/cyber-security.html" class="figure-link">
       <img src="publpics/IoT.jpg" alt="" title="">
 	  <div class="overlay">
         <div class="text">Your Text Here</div>
@@ -67,7 +67,7 @@ to operate in a safe and economic way.
     </a>
   </div>
   <div class="figure">
-    <a href="publpics/demand-response.html">
+    <a href="publpics/demand-response.html" class="figure-link">
       <img src="publpics/smart_home.jpg" alt="" title="">
 	  <div class="overlay">
         <div class="text">Your Text Here</div>
@@ -129,7 +129,10 @@ to operate in a safe and economic way.
     align-items: center;
     text-align: center;
   }
-
+  .figure-link {
+    display: block;
+    position: relative;
+  }
   .figure:hover .overlay {
     opacity: 1;
   }
