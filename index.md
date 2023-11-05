@@ -42,7 +42,7 @@ computational methods that are scalable and reliable. With main applications in 
 transportation systems, our research provide innovative solutions that help large-scale industrial systems 
 to operate in a safe and economic way.
 
-<table class="wide">
+<!-- <table class="wide">
 <tr>
   <td class="left">
     <a href="publpics/cyber-security.html">
@@ -54,7 +54,20 @@ to operate in a safe and economic way.
         <img src="publpics/smart_home.jpg" alt="" title="" style="width: 100%; height: auto"/>
     </a>
   </td>
-</tr>
+</tr> -->
+
+<div class="figure-container">
+  <div class="figure">
+    <a href="publpics/cyber-security.html">
+      <img src="publpics/IoT.jpg" alt="" title="">
+    </a>
+  </div>
+  <div class="figure">
+    <a href="publpics/demand-response.html">
+      <img src="publpics/smart_home.jpg" alt="" title="">
+    </a>
+  </div>
+</div>
 
 <!-- <div class="navbar">
   <div class="navbar-inner">
@@ -80,8 +93,15 @@ to operate in a safe and economic way.
    height: 100px; /* Adjust the height as needed */
    font-size: 20px; /* Adjust the font size as needed */
    }
-
+   .figure-container {
+   display: flex;
+   }	
   .figure {
+    flex: 1;
     margin-bottom: 20px; /* Adjust the margin as needed */
    }
+  .figure img {
+    width: 100%;
+    height: auto;
+  }
 </style>
