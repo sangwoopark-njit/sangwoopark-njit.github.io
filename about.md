@@ -46,7 +46,7 @@ he/him
             </div>
         </div>
 
-        <div class="col-md-2">
+        <div class="col-md-7">
         <a href="../pics/SangWoo_Park.jpg">
             <img src="../pics/SangWoo_Park.jpg"
                   title="SangWoo Park" alt="SangWoo Park"/></a>
