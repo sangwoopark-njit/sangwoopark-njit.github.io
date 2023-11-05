@@ -10,7 +10,7 @@ description: SangWoo Park's news
     overflow: hidden;
     width: 100%; /* Set the desired width for your figure */
     height: 400px; /* Set the desired height for your figure */
-	margin-bottom: 30px; /* Add margin to create vertical space */
+	margin-bottom: 20px; /* Add margin to create vertical space */
   }
 
   .figure img {

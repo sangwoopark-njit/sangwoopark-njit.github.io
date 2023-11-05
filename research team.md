@@ -7,8 +7,8 @@ description: SangWoo Park's Research Team
 <div class="container">
 <h4><a name="contact"></a>Ph.D. Students</h4>
 
-    <div class="row-fluid">
-        <div class="span5">
+    <div class="row">
+        <div class="col-md-5">
             Elson Cibaku<br/>
 
             <div id="hide_email">
@@ -19,15 +19,15 @@ description: SangWoo Park's Research Team
             </div>
         </div>	
 
-        <div class="span2">
+        <div class="col-md-2">
 		<a href="../pics/Elson_Cibaku.jpeg">
 			<img src="../pics/Elson_Cibaku.jpeg"
 				title="Elson Cibaku" alt="Elson Cibaku"/></a>
 		</div>
     </div>
 	
-	<div class="row-fluid">
-        <div class="span5">
+	<div class="row">
+        <div class="col-md-5">
             Bahareh Kargar<br/>
 
             <div id="hide_email">
@@ -38,7 +38,7 @@ description: SangWoo Park's Research Team
             </div>
         </div>
 		
-        <div class="span2">
+        <div class="col-md-2">
 		<a href="../pics/Bahareh_Kargar.png">
 			<img src="../pics/Bahareh_Kargar.png"
 				title="Bahareh Kargar" alt="Bahareh Kargar"/></a>
