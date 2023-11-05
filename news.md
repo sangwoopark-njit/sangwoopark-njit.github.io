@@ -18,6 +18,7 @@ description: SangWoo Park's news
   <button class="next-button" onclick="changeFigure(1)">Next</button>
 </div>
 
+<style>
 .figure-pane {
   text-align: center;
 }
@@ -47,6 +48,8 @@ description: SangWoo Park's news
 .next-button {
   float: right;
 }
+</style>
+
 
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
 
