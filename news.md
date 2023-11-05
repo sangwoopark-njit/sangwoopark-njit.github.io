@@ -17,6 +17,6 @@ has won the Best Student Paper Award of 2020 American Control Conference (ACC).
 
 * September 2018: I successfully passed the Doctoral Qualifying Examination and advanced to candidacy.
 
-* November 2016: I joined Professor [Javad Lavaei’s group](https://lavaei.ieor.berkeley.edu/Group.html) at UC Berkeley as a PhD student.
+* November 2016: I joined Professor [Javad Lavaei’s group](https://lavaei.ieor.berkeley.edu/Group.html) at [UC Berkeley IEOR](https://ieor.berkeley.edu/) as a PhD student.
 
-* May 2016: I graduated from Johns Hopkins University with a B.S. in Environmental Engineering.
+* May 2016: I graduated from [Johns Hopkins University](https://www.jhu.edu/) with a B.S. in Environmental Engineering.
