@@ -4,13 +4,49 @@ title: News
 description: SangWoo Park's news
 ---
 
-<table class="wide">
-<tr>
-  <td class="figure">	
-    <img src="publpics/njit_campus_01.jpg" alt="" title="njit_campus_01"/>
-  </td>
-</tr>
-</table>
+<div class="figure-pane">
+  <div class="figure-container">
+    <img class="figure" src="publpics/njit_campus_01.jpg" alt="njit_campus_01">
+    <img class="figure" src="publpics/njit_campus_02.jpg" alt="njit_campus_02">
+    <img class="figure" src="publpics/njit_campus_03.jpg" alt="njit_campus_03">
+	<img class="figure" src="publpics/njit_campus_04.jpg" alt="njit_campus_04">
+	<img class="figure" src="publpics/njit_campus_05.jpg" alt="njit_campus_05">
+	<img class="figure" src="publpics/njit_campus_06.jpg" alt="njit_campus_06">
+    <!-- Add more images as needed -->
+  </div>
+  <button class="prev-button" onclick="changeFigure(-1)">Previous</button>
+  <button class="next-button" onclick="changeFigure(1)">Next</button>
+</div>
+
+.figure-pane {
+  text-align: center;
+}
+
+.figure-container {
+  display: flex;
+  overflow: hidden;
+}
+
+.figure {
+  width: 100%;
+  height: auto;
+}
+
+.prev-button, .next-button {
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.prev-button {
+  float: left;
+}
+
+.next-button {
+  float: right;
+}
 
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
 
