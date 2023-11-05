@@ -31,7 +31,7 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea.
 <table class="wide">
 <tr>
   <td class="figure">	
-    <img src="publpics/smart_city_01.jpg" alt="" title=""/>
+    <img src="publpics/smart_city_01.jpg" alt="" title="smart_city"/>
   </td>
 </tr>
 </table>
@@ -58,10 +58,12 @@ to operate in a safe and economic way.
   .red-banner {
    background-color: crimson;
    color: white;
-   padding: 20px; /* Increase the padding for more space */
+   padding: 20px 20px; /* Increase the padding for more space */
    text-align: center;
    display: flex; /* Use flexbox for vertical centering */
+   justify-content: center; /* Center vertically */
    align-items: center; /* Vertically center the content */
+   height: 100px; /* Adjust the height as needed */
    font-size: 20px; /* Adjust the font size as needed */
    }
 
