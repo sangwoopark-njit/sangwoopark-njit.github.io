@@ -10,6 +10,7 @@ description: SangWoo Park's news
     overflow: hidden;
     width: 100%; /* Set the desired width for your figure */
     height: 400px; /* Set the desired height for your figure */
+	margin-bottom: 20px; /* Adjust the margin as needed */
   }
 
   .figure img {
@@ -33,6 +34,7 @@ description: SangWoo Park's news
     background: none;
     border: none;
     font-size: 24px;
+	color: white;
   }
 </style>
 
