@@ -90,7 +90,7 @@ to operate in a safe and economic way.
    display: flex; /* Use flexbox for vertical centering */
    justify-content: center; /* Center vertically */
    align-items: center; /* Vertically center the content */
-   height: 100px; /* Adjust the height as needed */
+   height: 60px; /* Adjust the height as needed */
    font-size: 20px; /* Adjust the font size as needed */
    }
    .figure-container {
