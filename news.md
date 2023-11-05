@@ -4,63 +4,69 @@ title: News
 description: SangWoo Park's news
 ---
 
+<style>
+  .figure-container {
+    display: flex;
+    overflow: hidden;
+  }
+
+  .figure {
+    flex: 1;
+    transition: transform 0.3s ease;
+  }
+</style>
+
 <div class="figure-pane">
   <div class="figure-container">
-    <img class="figure" src="publpics/njit_campus_01.jpg" alt="njit_campus_01">
-    <img class="figure" src="publpics/njit_campus_02.jpg" alt="njit_campus_02">
-    <img class="figure" src="publpics/njit_campus_03.jpg" alt="njit_campus_03">
-	<img class="figure" src="publpics/njit_campus_04.jpg" alt="njit_campus_04">
-	<img class="figure" src="publpics/njit_campus_05.jpg" alt="njit_campus_05">
-	<img class="figure" src="publpics/njit_campus_06.jpg" alt="njit_campus_06">
-    <!-- Add more images as needed -->
+    <div class="figure">
+      <img src="publpics/njit_campus_01.jpg" alt="njit_campus_01">
+    </div>
+    <div class="figure">
+      <img src="publpics/njit_campus_02.jpg" alt="njit_campus_02">
+    </div>
+    <div class="figure">
+      <img src="publpics/njit_campus_03.jpg" alt="njit_campus_03">
+    </div>
+	<div class="figure">
+      <img src="publpics/njit_campus_04.jpg" alt="njit_campus_04">
+    </div>
+	<div class="figure">
+      <img src="publpics/njit_campus_05.jpg" alt="njit_campus_05">
+    </div>
+	<div class="figure">
+      <img src="publpics/njit_campus_06.jpg" alt="njit_campus_06">
+    </div>
   </div>
   <button class="prev-button" onclick="changeFigure(-1)">&lt;</button>
   <button class="next-button" onclick="changeFigure(1)">&gt;</button>
 </div>
 
-
-<style>
-  .figure-container {
-    display: flex;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .figure {
-    flex: 1;
-	margin-bottom: 20px; /* Adjust the margin as needed */
-    transition: transform 0.3s ease;
-  }
-</style>
-
-
 <script>
   let currentFigureIndex = 0; // Initialize the current figure index
 
   function changeFigure(step) {
+    // Hide the current figure
+    const currentFigure = document.querySelectorAll('.figure')[currentFigureIndex];
+    currentFigure.style.transform = 'translateX(100%)';
+
     // Update the current figure index based on the step (1 for next, -1 for previous)
     currentFigureIndex += step;
 
-    // Get all figure elements
-    const figures = document.querySelectorAll('.figure');
-
     // Wrap around if exceeding the figure count
     if (currentFigureIndex < 0) {
-      currentFigureIndex = figures.length - 1;
-    } else if (currentFigureIndex >= figures.length) {
+      currentFigureIndex = 2; // Number of figures minus 1
+    } else if (currentFigureIndex > 2) {
       currentFigureIndex = 0;
     }
 
-    // Calculate the transform value to swipe to the current figure
-    const transformValue = `translateX(-${currentFigureIndex * 100}%)`;
-
-    // Apply the transform to the figure container for the swiping effect
-    const figureContainer = document.querySelector('.figure-container');
-    figureContainer.style.transform = transformValue;
+    // Show the next figure
+    const nextFigure = document.querySelectorAll('.figure')[currentFigureIndex];
+    nextFigure.style.transform = 'translateX(0)';
   }
 
   // Initially, show the first figure
-  changeFigure(0);
+  const initialFigure = document.querySelectorAll('.figure')[currentFigureIndex];
+  initialFigure.style.transform = 'translateX(0)';
 </script>
 
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
