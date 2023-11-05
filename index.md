@@ -56,15 +56,22 @@ to operate in a safe and economic way.
   </td>
 </tr> -->
 
+### <a name="projects"></a>Projects
 <div class="figure-container">
   <div class="figure">
     <a href="publpics/cyber-security.html">
       <img src="publpics/IoT.jpg" alt="" title="">
+	  <div class="overlay">
+        <div class="text">Your Text Here</div>
+      </div>
     </a>
   </div>
   <div class="figure">
     <a href="publpics/demand-response.html">
       <img src="publpics/smart_home.jpg" alt="" title="">
+	  <div class="overlay">
+        <div class="text">Your Text Here</div>
+      </div>
     </a>
   </div>
 </div>
@@ -106,5 +113,30 @@ to operate in a safe and economic way.
     width: 100%;
     height: 100%;
 	object-fit: cover; /* Crop the image to fit the fixed height */
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 0.5s;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .figure:hover .overlay {
+    opacity: 1;
+  }
+
+  .text {
+    color: white;
+    font-size: 18px;
+    /* Add other text styling here */
   }
 </style>
