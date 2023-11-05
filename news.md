@@ -14,13 +14,14 @@ description: SangWoo Park's news
 	<img class="figure" src="publpics/njit_campus_06.jpg" alt="njit_campus_06">
     <!-- Add more images as needed -->
   </div>
-  <button class="prev-button" onclick="changeFigure(-1)">Previous</button>
-  <button class="next-button" onclick="changeFigure(1)">Next</button>
+  <button class="prev-button" onclick="changeFigure(-1)">&lt;</button>
+  <button class="next-button" onclick="changeFigure(1)">&gt;</button>
 </div>
 
 <style>
 .figure-pane {
   text-align: center;
+  position: relative;
 }
 
 .figure-container {
@@ -34,19 +35,23 @@ description: SangWoo Park's news
 }
 
 .prev-button, .next-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
   padding: 10px;
-  background-color: #333;
-  color: #fff;
+  background-color: rgba(255, 255, 255, 0.5); /* Light color background */
+  color: #333; /* Dark arrow color */
   border: none;
   cursor: pointer;
+  font-size: 20px;
 }
 
 .prev-button {
-  float: left;
+  left: 10px;
 }
 
 .next-button {
-  float: right;
+  right: 10px;
 }
 </style>
 
