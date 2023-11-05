@@ -6,67 +6,66 @@ description: SangWoo Park's news
 
 <style>
   .figure-container {
-    display: flex;
+    position: relative;
     overflow: hidden;
+    width: 400px; /* Set the desired width for your figure */
+    height: 400px; /* Set the desired height for your figure */
   }
 
-  .figure {
-    flex: 1;
-    transition: transform 0.3s ease;
+  .figure img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Crop the image to fit the fixed dimensions */
+  }
+
+  .buttons {
+    text-align: center;
+  }
+
+  .button {
+    background: none;
+    border: none;
+    font-size: 24px;
   }
 </style>
 
-<div class="figure-pane">
-  <div class="figure-container">
-    <div class="figure">
-      <img src="publpics/njit_campus_01.jpg" alt="njit_campus_01">
-    </div>
-    <div class="figure">
-      <img src="publpics/njit_campus_02.jpg" alt="njit_campus_02">
-    </div>
-    <div class="figure">
-      <img src="publpics/njit_campus_03.jpg" alt="njit_campus_03">
-    </div>
-	<div class="figure">
-      <img src="publpics/njit_campus_04.jpg" alt="njit_campus_04">
-    </div>
-	<div class="figure">
-      <img src="publpics/njit_campus_05.jpg" alt="njit_campus_05">
-    </div>
-	<div class="figure">
-      <img src="publpics/njit_campus_06.jpg" alt="njit_campus_06">
-    </div>
+<div class="figure-container">
+  <div class="figure">
+    <img src="publpics/njit_campus_01.jpg" alt="njit_campus_01">
   </div>
-  <button class="prev-button" onclick="changeFigure(-1)">&lt;</button>
-  <button class="next-button" onclick="changeFigure(1)">&gt;</button>
+</div>
+
+<div class="buttons">
+  <button class="button prev-button" onclick="changeFigure(-1)">&lt;</button>
+  <button class="button next-button" onclick="changeFigure(1)">&gt;</button>
 </div>
 
 <script>
   let currentFigureIndex = 0; // Initialize the current figure index
+  const figures = [
+    'njit_campus_01.jpg',
+    'njit_campus_02.jpg',
+    'njit_campus_03.jpg',
+    'njit_campus_04.jpg',
+    'njit_campus_05.jpg',
+    'njit_campus_06.jpg',
+  ]; // Provide the image file names for all your figures
 
   function changeFigure(step) {
-    // Hide the current figure
-    const currentFigure = document.querySelectorAll('.figure')[currentFigureIndex];
-    currentFigure.style.transform = 'translateX(100%)';
-
     // Update the current figure index based on the step (1 for next, -1 for previous)
     currentFigureIndex += step;
 
     // Wrap around if exceeding the figure count
     if (currentFigureIndex < 0) {
-      currentFigureIndex = 2; // Number of figures minus 1
-    } else if (currentFigureIndex > 2) {
+      currentFigureIndex = figures.length - 1;
+    } else if (currentFigureIndex >= figures.length) {
       currentFigureIndex = 0;
     }
 
-    // Show the next figure
-    const nextFigure = document.querySelectorAll('.figure')[currentFigureIndex];
-    nextFigure.style.transform = 'translateX(0)';
+    // Change the displayed figure source
+    const figure = document.querySelector('.figure img');
+    figure.src = `publpics/${figures[currentFigureIndex]}`;
   }
-
-  // Initially, show the first figure
-  const initialFigure = document.querySelectorAll('.figure')[currentFigureIndex];
-  initialFigure.style.transform = 'translateX(0)';
 </script>
 
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
