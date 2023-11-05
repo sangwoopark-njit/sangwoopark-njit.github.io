@@ -59,19 +59,15 @@ to operate in a safe and economic way.
 ### <a name="projects"></a>Projects
 <div class="figure-container">
   <div class="figure">
-    <a href="publpics/cyber-security.html" class="figure-link">
+    <a href="publpics/cyber-security.html" class="hover-effect">
       <img src="publpics/IoT.jpg" alt="" title="">
-	  <div class="overlay">
-        <div class="text">Your Text Here</div>
-      </div>
+      <div class="hover-text">Your Text Here</div>
     </a>
   </div>
   <div class="figure">
-    <a href="publpics/demand-response.html" class="figure-link">
+    <a href="publpics/demand-response.html" class="hover-effect">
       <img src="publpics/smart_home.jpg" alt="" title="">
-	  <div class="overlay">
-        <div class="text">Your Text Here</div>
-      </div>
+      <div class="hover-text">Your Text Here</div>
     </a>
   </div>
 </div>
@@ -114,32 +110,34 @@ to operate in a safe and economic way.
     height: 100%;
 	object-fit: cover; /* Crop the image to fit the fixed height */
   }
-  .overlay {
+  .hover-effect {
+    position: relative;
+    display: inline-block;
+  }
+
+  .hover-effect img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .hover-text {
     position: absolute;
     top: 0;
     left: 0;
+    display: none;
     width: 100%;
     height: 100%;
-    opacity: 0;
-    transition: 0.1s;
-    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
     text-align: center;
-  }
-  .figure-link {
-    display: block;
-    position: relative;
-  }
-  .figure:hover .overlay {
-    opacity: 1;
+    padding-top: 40%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
   }
 
-  .text {
-    color: white;
-    font-size: 18px;
-    /* Add other text styling here */
+  .hover-effect:hover .hover-text {
+    display: block;
+    opacity: 1;
   }
 </style>
