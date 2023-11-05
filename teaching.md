@@ -19,4 +19,4 @@ description: SangWoo Park's teaching
 ### <a name="current"></a>Current courses
 
 #### [Information & Knowledge Engineering Systems (IE 441, Fall 2023)]
-- [syllabus](https://kbroman.org/BMI881/syllabus.html)
+<a href="{{ BASE_PATH }}/IE441_syllabus.pdf" target="_blank">Syllabus <img src="icons16/pdf-icon.png" alt="PDF" /></a>
