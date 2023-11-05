@@ -121,7 +121,7 @@ to operate in a safe and economic way.
     width: 100%;
     height: 100%;
     opacity: 0;
-    transition: 0.5s;
+    transition: 0.1s;
     background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
     display: flex;
     flex-direction: column;
