@@ -32,6 +32,7 @@ description: SangWoo Park's news
 .figure {
   width: 100%;
   height: auto;
+  margin-bottom: 20px; /* Adjust the margin as needed */
 }
 
 .prev-button, .next-button {
