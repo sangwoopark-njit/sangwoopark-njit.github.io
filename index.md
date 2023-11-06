@@ -110,6 +110,7 @@ to operate in a safe and economic way.
    align-items: center; /* Vertically center the content */
    height: 40px; /* Adjust the height as needed */
    font-size: 20px; /* Adjust the font size as needed */
+   margin: 0; /* Remove margin to eliminate space */
    }
    
    .figure-container {
