@@ -42,8 +42,8 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea"
 
 
 At OptiML-Lab, we utilize optimization theory, machine learning and domain specific knowledge to develop innovative 
-computational methods that are scalable and reliable. With main applications in power systems and 
-transportation systems, our research provide innovative solutions that help large-scale industrial systems 
+computational methods that are scalable and reliable. With main applications in power systems,
+transportation systems, and supply chains, our research provide innovative solutions that help large-scale industrial systems 
 to operate in a safe and economic way.
 
 <!-- <table class="wide">
