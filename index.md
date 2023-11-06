@@ -80,9 +80,9 @@ to operate in a safe and economic way.
     </a>
   </div>
   <div class="figure">
-    <a href="publpics/demand-response.html" class="hover-effect">
-      <img src="publpics/smart_home.jpg" alt="" title="">
-      <div class="hover-text">Grid Flexibility</div>
+    <a href="publpics/supply-chain.html" class="hover-effect">
+      <img src="publpics/supply_chain.jpg" alt="" title="">
+      <div class="hover-text">Circular Supply Chains (CSC)</div>
     </a>
   </div>
 </div>
