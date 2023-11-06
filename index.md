@@ -28,11 +28,11 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea"
   </div>
 </div> -->
 
-<div class="red-banner">
+<div class="red-banner" style="margin: 0; padding: 0;">
   NJIT OptiML-Lab
 </div>
 
-<table class="wide">
+<table class="wide" style="margin: 0; padding: 0;">
 <tr>
   <td class="figure">	
     <img src="publpics/smart_city_01.jpg" alt="" title="smart_city"/>
