@@ -7,13 +7,13 @@ description: Grid Flexibility
 
 ### <a name="demand-response"></a>Grid Flexibility: Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response
 
-<div class="figure-container">
-  <div class="figure">
-    <a href="publpics/demand-response-figure.html" class="hover-effect">
-      <img src="publpics/demand-response-figure.jpg" alt="" title="">
-    </a>
-  </div>
-</div>
+<table class="wide">
+<tr>
+  <td class="figure">	
+    <img src="publpics/demand-response-figure.jpg" alt="" title="demand-response-figure"/>
+  </td>
+</tr>
+</table>
 
 The increasing frequency of extreme weather events are presenting profound difficulties
 in safely operating electric power systems around the world. For instance, in 2022,
