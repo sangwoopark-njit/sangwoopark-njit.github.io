@@ -53,3 +53,10 @@ those elasticity information will be used to design a reward pricing mechanism t
 dynamically change the amount of reward based on the current state of the system. The
 project will leverage optimization/machine-learning tools and financial models through
 the collaboration among experts in Management Science and Engineering.
+
+
+<style>
+   .figure-container {
+   display: flex;
+   }	
+</style>
