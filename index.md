@@ -28,6 +28,10 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea"
   </div>
 </div> -->
 
+<div class="red-banner">
+  <p>NJIT OptiML-Lab</p>
+</div>
+
 <table class="wide">
 <tr>
   <td class="figure">	
@@ -94,10 +98,6 @@ to operate in a safe and economic way.
       </ul>
   </div>
 </div> -->
-
-<div class="red-banner">
-  <p>NJIT OptiML-Lab</p>
-</div>
 
 <style>
   .red-banner {
