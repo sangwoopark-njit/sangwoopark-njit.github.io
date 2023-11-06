@@ -74,8 +74,8 @@ to operate in a safe and economic way.
 
 <div class="figure-container">
   <div class="figure">
-    <a href="publpics/transportation_01.html" class="hover-effect">
-      <img src="publpics/transportation_01.jpg" alt="" title="">
+    <a href="publpics/transportation.html" class="hover-effect">
+      <img src="publpics/transportation_02.jpg" alt="" title="">
       <div class="hover-text">Transportation Systems</div>
     </a>
   </div>
