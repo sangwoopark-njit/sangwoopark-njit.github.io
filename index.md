@@ -160,7 +160,7 @@ to operate in a safe and economic way.
     opacity: 1;
   }
   
-  .table-container {
+  table.wide {
     margin: 0;
     padding: 0;
   }
