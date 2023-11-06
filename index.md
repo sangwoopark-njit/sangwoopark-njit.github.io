@@ -96,20 +96,24 @@ to operate in a safe and economic way.
    height: 40px; /* Adjust the height as needed */
    font-size: 20px; /* Adjust the font size as needed */
    }
+   
    .figure-container {
    display: flex;
    }	
+   
   .figure {
     flex: 1;
     margin-bottom: 20px; /* Adjust the margin as needed */
-	height: 240px; /* Set a fixed height for the figures */
+	height: 235px; /* Set a fixed height for the figures */
     overflow: hidden; /* Hide any overflowing content */
    }
+   
   .figure img {
     width: 100%;
     height: 100%;
 	object-fit: cover; /* Crop the image to fit the fixed height */
   }
+  
   .hover-effect {
     position: relative;
     display: inline-block;
