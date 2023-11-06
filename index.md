@@ -31,7 +31,8 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea"
 <div class="red-banner" style="margin-bottom: -20px;">
   NJIT OptiML-Lab
 </div>
-<table class="wide" style="margin-top: 0; padding: 0;">
+
+<table class="wide">
 <tr>
   <td class="figure">	
     <img src="publpics/smart_city_01.jpg" alt="" title="smart_city"/>
@@ -158,10 +159,5 @@ to operate in a safe and economic way.
   .hover-effect:hover .hover-text {
     display: block;
     opacity: 1;
-  }
-  
-  table.wide {
-    margin: 0;
-    padding: 0;
   }
 </style>
