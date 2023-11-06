@@ -160,4 +160,9 @@ to operate in a safe and economic way.
     display: block;
     opacity: 1;
   }
+  
+  .table-container {
+    margin: 0;
+    padding: 0;
+  }
 </style>
