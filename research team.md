@@ -67,25 +67,6 @@ description: SangWoo Park's Research Team
 				title="Caterina Scaioli" alt="Caterina Scaioli"/></a>
 		</div>
     </div>
-	
-	<div class="row-fluid">
-        <div class="span5">
-            Caterina Scaioli<br/>
-
-            <div id="hide_email">
-            Email: <code>caterina.scaioli@studenti.unipr.it</code><br/>
-			BSc, MSc in Mechanical Engineering | University of Parma/NJIT <br/>
-			Research interests: <br/>
-            <a href="{{ BASE_PATH }}/Caterina Scaioli_CV.pdf" target="_blank">Curriculum vitae <img src="icons16/pdf-icon.png" alt="PDF" /></a>
-            </div>
-        </div>	
-
-        <div class="span2">
-		<a href="../pics/Caterina Scaioli.jpeg">
-			<img src="../pics/Caterina Scaioli.jpeg"
-				title="Caterina Scaioli" alt="Caterina Scaioli"/></a>
-		</div>
-    </div>
 </div>
 
 <style>
