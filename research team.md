@@ -56,14 +56,14 @@ description: SangWoo Park's Research Team
             <div id="hide_email">
             Email: <code>caterina.scaioli@studenti.unipr.it</code><br/>
 			BSc, MSc in Mechanical Engineering | University of Parma/NJIT <br/>
-			Research interests: <br/>
+			Research interests: Food Science Technology and Operation Research; Strawberry Nectar Preservation by Non-Thermal Treatments and Energy Evaluation for High-Pressure Processing<br/>
             <a href="{{ BASE_PATH }}/Caterina Scaioli_CV.pdf" target="_blank">Curriculum vitae <img src="icons16/pdf-icon.png" alt="PDF" /></a>
             </div>
         </div>	
 
         <div class="span2">
-		<a href="../pics/Caterina Scaioli.jpeg">
-			<img src="../pics/Caterina Scaioli.jpeg"
+		<a href="../pics/Caterina Scaioli.png">
+			<img src="../pics/Caterina Scaioli.png"
 				title="Caterina Scaioli" alt="Caterina Scaioli"/></a>
 		</div>
     </div>
