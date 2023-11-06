@@ -24,9 +24,10 @@ outages unless consumers can reduce their energy use even more than they have so
 Various researches have also noted that the heightened uncertainty in electricity
 generation coming from renewable energy resources can destabilize the system unless
 more demand-side management are set into place.
+
 Demand response (DR), defined as “the changes of end-consumers’ electricity consumption
 in peak hours from their normal patterns,” has gained popularity as a means
-(and a resource) to solve the reliability and efficiency issues of the power grid [2]. As
+(and a resource) to solve the reliability and efficiency issues of the power grid. As
 more residential real estate (RRE) and commercial real estate (CRE) owners
 explore innovative ways to cut cost and conserve energy, DR offers a powerful
 alternative for achieving these goals, and at the same time, contributing to
@@ -36,12 +37,13 @@ at real-time wholesale prices and supply them at a flat rate to end-customers. D
 time periods when the wholesale price of electricity exceeds the flat rate that LAs receive
 from the customers, it is actually financially beneficial for them to encourage the
 customers to reduce consumption by offering monetized rewards.
+
 Many ISOs and LAs in the U.S. in fact already have several DR programs in their
 operating areas. However, most of them are reporting lower than expected participation,
 due to reasons such as non-flexibility of demand and information asymmetries.
 According to the U.S. Department of Energy, residential electricity consumption constitutes
 over 38% of the total U.S. electricity consumption, forming a large pool of
-flexibility that we can exploit [3]. One of the reasons why demand response has been
+flexibility that we can exploit. One of the reasons why demand response has been
 largely unsuccessful in the residential sector is because there is a lack of understanding
 of consumer-specific behavior patterns. In this research, we establish a framework
 for understanding the heterogeneous elasticity of electricity consumption in the face of
