@@ -10,7 +10,7 @@ description: Grid Flexibility
 <table class="wide">
 <tr>
   <td class="figure">	
-    <img src="../publpics/demand-response-figure.png" alt="" title="demand-response-figure"/>
+    <img src="../publpics/demand-response_figure.png" alt="" title="demand-response-figure"/>
   </td>
 </tr>
 </table>
