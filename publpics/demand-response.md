@@ -61,7 +61,6 @@ the collaboration among experts in Management Science and Engineering.
   .figure {
     flex: 1;
     margin-bottom: 20px; /* Adjust the margin as needed */
-	height: 235px; /* Set a fixed height for the figures */
     overflow: hidden; /* Hide any overflowing content */
   }
    
