@@ -1,3 +1,10 @@
+---
+layout: page
+title: 
+description: Grid Flexibility
+---
+
+
 ### <a name="demand-response"></a>Grid Flexibility: Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response
 
 <div class="figure-container">
