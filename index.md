@@ -28,7 +28,7 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea"
   </div>
 </div> -->
 
-<div class="red-banner" style="margin-bottom: 0">
+<div class="red-banner" style="margin-bottom: -20px;">
   NJIT OptiML-Lab
 </div>
 <table class="wide" style="margin-top: 0; padding: 0;">
