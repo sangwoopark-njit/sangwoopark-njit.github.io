@@ -8,8 +8,8 @@
 </tr>
 </table>
 
-As illustrated by the 2030 Agenda for Sustainable Develop-
-ment and the Paris Agreement on Climate Change, the EU
+As illustrated by the 2030 Agenda for Sustainable Development
+and the Paris Agreement on Climate Change, the EU
 is committed to consistently progressing towards sustainable
 industrial practices. Circular economy (CE) is a sustainable
 economic paradigm that aims at prolonging the resource value
@@ -24,8 +24,8 @@ zero-waste operating conditions. CSCs extend the boundaries
 of closed loop supply chains (SCs) by involving multiple
 stakeholders, with both firms belonging to the linear supply
 chain stages and organizations from the external industrial
-networks, carrying out the circular activities. Several exam-
-ples have been provided by previous works, where recycled
+networks, carrying out the circular activities. Several examples 
+have been provided by previous works, where recycled
 polyethylene terephthalate (PET) bottles and textile materials
 may be used for construction or waste cooking oil from
 a food supply chain utilized to produce bio-fuels. Despite
@@ -34,8 +34,8 @@ on the topic is rather limited and invites further studies.
 
 In this project, we propose a general framework for analyzing
 the resiliency of CSCs. Without a doubt, CSC networks
-should be resilient to better perform in the advent of fre-
-quent and unpredictable disruptions. Similar to linear supply
+should be resilient to better perform in the advent of frequent
+ and unpredictable disruptions. Similar to linear supply
 chains, the stability of CSC networks can be jeopardized
 by adverse events that can occur at different levels, for
 instance, within each facility (e.g. warehouse), within single
@@ -57,8 +57,8 @@ measure that quantifies the benefits of CSC when compared
 to linear supply chains. Using this framework, we are not
 only able to assess the resilience of existing CSCs but also
 determine which nodes (e.g. warehouse, firm) and arcs (e.g.
-connection, flow, operation) are the most important contribu-
-tors to the resilience of the network. Finally, the metric can
+connection, flow, operation) are the most important contributors
+to the resilience of the network. Finally, the metric can
 also be readily used to assess future investments/expansions
 on material handling systems of the existing supply chain
 network.
