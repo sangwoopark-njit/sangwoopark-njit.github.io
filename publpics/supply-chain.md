@@ -1,3 +1,10 @@
+---
+layout: page
+title: ""
+description: Supply chains
+---
+
+
 ### <a name="circular supply chains"></a>Circular Supply Chains: Quantifying their Resilience in the Face of Disruptions
 
 <table class="wide">
