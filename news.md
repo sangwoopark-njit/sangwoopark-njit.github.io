@@ -76,7 +76,7 @@ description: SangWoo Park's news
     figure.src = `publpics/${figures[currentFigureIndex]}`;
   }
 </script>
-* November 2023: Congratulations to Kushagra Verma for receiving the 2023 Fall URI Seed Grant (phase 2: $3000) on the topic of "Bioenergy Optimization: Enhancing Anaerobic Digestion for Maximum Biogas Output."
+* November 2023: Congratulations to Kushagra Verma for receiving the 2023 Fall [URI Seed Grant](https://centers.njit.edu/uri/programs/index.php) (phase 2: $3000) on the topic of "Bioenergy Optimization: Enhancing Anaerobic Digestion for Maximum Biogas Output."
 
 * November 2023: Congratulations to Irma Melo for receiving the 2023 Fall URI Seed Grant (phase 1: $500) on the topic of "Optimizing the Operations of UPS Parcel Sorting System."
 
