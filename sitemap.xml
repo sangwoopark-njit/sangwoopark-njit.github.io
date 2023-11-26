@@ -2,7 +2,7 @@
     <url>
         <loc>https://sangwoopark-njit.github.io/</loc>
         <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://sangwoopark-njit.github.io/about</loc>
@@ -12,12 +12,22 @@
 	<url>
         <loc>https://sangwoopark-njit.github.io/pubs</loc>
         <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.9</priority>
     </url>
 	<url>
         <loc>https://sangwoopark-njit.github.io/research%20team</loc>
         <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.9</priority>
+    </url>
+	<url>
+        <loc>https://sangwoopark-njit.github.io/news</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+	<url>
+        <loc>https://sangwoopark-njit.github.io/teaching</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
     </url>
     <!-- Add more URLs as needed -->
 </urlset>
