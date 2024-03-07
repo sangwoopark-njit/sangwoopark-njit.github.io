@@ -29,7 +29,7 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints
-Cibaku, E., **Park, S.**, “Efficient Power System State Estimation Using Graph Convolutions and Attentions,” in preparation.
+Cibaku, E., **Park, S.**, “Efficient Power System State Estimation Using Graph Convolutions and Attentions,” submitted to Energy and AI.
 
 Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” in preparation.
 
@@ -80,7 +80,7 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
 [![pdf](icons16/pdf-icon.png)](https://digitalcommons.georgiasouthern.edu/pmhr_2023/6/)
 
-**Park, S.**, Gama. F., Lavaei, J., Sojoudi, S., “Distributed Power System State Estimation using Graph Convolutional Neural Networks,” 2021, Hawaii International Conference on Systems Sciences.
+**Park, S.**, Gama. F., Lavaei, J., Sojoudi, S., “Distributed Power System State Estimation using Graph Convolutional Neural Networks,” 2023, Hawaii International Conference on Systems Sciences.
 [![pdf](icons16/pdf-icon.png)](https://scholarspace.manoa.hawaii.edu/items/ab8e380f-f79e-42ae-935b-3c46a260db03)
 
 **Park, S.**, Mulvaney-Kemp, J., Jin, M., Lavaei, J., “Diminishing regret for online nonconvex optimization,” American Controls Conference (ACC) 2021.
