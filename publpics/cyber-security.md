@@ -10,7 +10,7 @@ description: Grid cyber-physical security
 <table class="wide">
 <tr>
   <td class="figure">	
-    <img src="../publpics/smart_city_02.png" alt="" title="GCP-figure"/>
+    <img src="../publpics/smart_city_02.jpg" alt="" title="GCP-figure"/>
   </td>
 </tr>
 </table>
