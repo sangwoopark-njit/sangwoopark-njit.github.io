@@ -115,6 +115,8 @@ to operate in a safe and economic way.
    
    .figure-container {
    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
    }	
    
   .figure {
