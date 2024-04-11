@@ -9,7 +9,7 @@ description: SangWoo Park's news
     position: relative;
     overflow: hidden;
     width: 100%; /* Set the desired width for your figure */
-    height: 400px; /* Set the desired height for your figure */
+    height: 300px; /* Set the desired height for your figure */
 	margin-bottom: 20px; /* Add margin to create vertical space */
   }
 

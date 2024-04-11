@@ -34,7 +34,7 @@ Johns Hopkins, Johns Hopkins University, JHU, Baltimore, Korea, South Korea"
 
 <table class="wide">
 <tr>
-  <td class="figure">	
+  <td class="figure-main">	
     <img src="publpics/smart_city_01.jpg" alt="" title="smart_city"/>
   </td>
 </tr>
@@ -123,6 +123,13 @@ to operate in a safe and economic way.
     flex: 1 0 45%;
     margin-bottom: 10px; /* Adjust the margin as needed */
 	# height: 200px; /* Set a fixed height for the figures */
+    overflow: hidden; /* Hide any overflowing content */
+   }
+   
+   .figure-main {
+    flex: 1 0 45%;
+    margin-bottom: 10px; /* Adjust the margin as needed */
+	height: 250px; /* Set a fixed height for the figures */
     overflow: hidden; /* Hide any overflowing content */
    }
    
