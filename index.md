@@ -129,7 +129,7 @@ to operate in a safe and economic way.
    .figure-main {
     flex: 1 0 45%;
     margin-bottom: 5px; /* Adjust the margin as needed */
-	height: 480px; /* Set a fixed height for the figures */
+	# height: 480px; /* Set a fixed height for the figures */
     overflow: hidden; /* Hide any overflowing content */
    }
    
