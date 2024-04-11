@@ -11,7 +11,7 @@ description: SangWoo Park's news
 	flex: 1 0 45%;
     width: 100%; /* Set the desired width for your figure */
     # height: 300px; /* Set the desired height for your figure */
-	margin-bottom: 10px; /* Add margin to create vertical space */
+	margin-bottom: 20px; /* Add margin to create vertical space */
   }
 
   .figure img {
