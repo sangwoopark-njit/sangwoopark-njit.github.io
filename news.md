@@ -8,9 +8,10 @@ description: SangWoo Park's news
   .figure-container {
     position: relative;
     overflow: hidden;
+	flex: 1 0 45%;
     width: 100%; /* Set the desired width for your figure */
-    height: 280px; /* Set the desired height for your figure */
-	margin-bottom: 20px; /* Add margin to create vertical space */
+    # height: 300px; /* Set the desired height for your figure */
+	margin-bottom: 10px; /* Add margin to create vertical space */
   }
 
   .figure img {
