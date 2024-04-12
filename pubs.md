@@ -36,9 +36,7 @@ Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Prici
 Cibaku, E., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation.
 
 **Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” arXiv 2024. 
-[![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/2404.07898)
-
-<br><br><br>
+[![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/2404.07898) <br>
 
 ### <a name="articles"></a>Journal Articles
 
