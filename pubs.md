@@ -40,7 +40,7 @@ Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orde
 
 Kargar, B., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
 
-Cafforio, F., **Park, S.**, Giannoccaro, I. Abdel-Malek, L., "Modeling circular supply chains resilience: A case study in fashion industry," Twenty-third International Working Seminar on Production Economics.
+Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Modeling circular supply chains resilience: A case study in fashion industry," Twenty-third International Working Seminar on Production Economics.
 
 <br>
 
