@@ -36,7 +36,7 @@ Cibaku, E., **Park, S.**, “Boosting Efficiency in State Estimation of Power Sy
 
 Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” in preparation.
 
-Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orders - A Graph-Aware Reinforcement Learning Approach," in preparation.
+Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orders: A Graph-Aware Reinforcement Learning Approach," in preparation.
 
 Kargar, B., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. <br>
 
