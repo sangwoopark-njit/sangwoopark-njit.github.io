@@ -38,7 +38,9 @@ Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Prici
 
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orders: A Graph-Aware Reinforcement Learning Approach," in preparation.
 
-Kargar, B., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. <br>
+Kargar, B., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
+
+<br>
 
 ### <a name="articles"></a>Journal Articles
 
