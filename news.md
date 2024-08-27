@@ -77,7 +77,7 @@ description: SangWoo Park's news
     figure.src = `publpics/${figures[currentFigureIndex]}`;
   }
 </script>
-* August 2024: I have been appointed into the Conference Editorial Board of IEEE Control Systems Society and Associate Editor of the Americal Control Conference.
+* August 2024: I have been appointed into the Conference Editorial Board of IEEE Control Systems Society and Associate Editor of the [Americal Control Conference] (https://www.ieeecss.org/event/2025-american-control-conference).
 
 * November 2023: Congratulations to Kushagra Verma for receiving the 2023 Fall [URI Seed Grant](https://centers.njit.edu/uri/programs/index.php) (phase 2: $3000) on the topic of "Bioenergy Optimization: Enhancing Anaerobic Digestion for Maximum Biogas Output."
 
