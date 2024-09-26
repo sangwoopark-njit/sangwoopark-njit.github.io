@@ -29,12 +29,13 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints
-Cibaku, E., **Park, S.**, “Boosting Efficiency in State Estimation of Power Systems by Leveraging Attention Mechanism,” accepted to Energy and AI.
+Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems.”
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Review_D_opt_2024.pdf)<br/>
 
 **Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” arXiv 2024. 
 [![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/2404.07898) 
 
-Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” in preparation.
+Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” submitted.
 
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orders: A Graph-Aware Reinforcement Learning Approach," in preparation.
 
@@ -45,6 +46,10 @@ Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Modeling circular
 <br>
 
 ### <a name="articles"></a>Journal Articles
+
+#### 2024
+Cibaku, E., **Park, S.**, “Boosting Efficiency in State Estimation of Power Systems by Leveraging Attention Mechanism,” Energy and AI, vol.16, 2024. 
+[![pdf](icons16/pdf-icon.png)](https://www.sciencedirect.com/science/article/pii/S2666546824000351)
 
 #### 2022
 
