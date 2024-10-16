@@ -13,7 +13,7 @@ description: SangWoo Park's Research Team
 
             <div id="hide_email">
             Email: <code>at2228@njit.edu</code><br/>
-			BSc in Electrical Engineering | Shahid Bahonar Technical & Engineering College <br/> 
+			BSc in Electrical Engineering | Shahid Bahonar Tech. & Engi. College <br/> 
 			MSc in Electrical Engineering | University of Tabriz <br/>
 			Research interests: optimization, model predictive control, deep learning, reinforcement learning, power systems <br/>
             <a href="{{ BASE_PATH }}/Amin-CV.pdf" target="_blank">Curriculum vitae <img src="icons16/pdf-icon.png" alt="PDF" /></a>
