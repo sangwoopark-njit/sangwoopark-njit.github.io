@@ -21,8 +21,8 @@ description: SangWoo Park's Research Team
         </div>	
 
         <div class="span2">
-		<a href="../pics/Amin_Taghieh.jpg">
-			<img src="../pics/Amin_Taghieh.jpg"
+		<a href="../pics/Amin_Taghieh.jpeg">
+			<img src="../pics/Amin_Taghieh.jpeg"
 				title="Amin Taghieh" alt="Amin Taghieh"/></a>
 		</div>
     </div>
