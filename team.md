@@ -45,6 +45,10 @@ description: SangWoo Park's Research Team
 				title="Elson Cibaku" alt="Elson Cibaku"/></a>
 		</div>
     </div>
+</div>
+
+<div class="container">
+<h4><a name="alumni"></a>Alumni (Ph.D.)</h4>
 	
 	<div class="row-fluid">
         <div class="span5">
