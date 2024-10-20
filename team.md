@@ -47,26 +47,26 @@ description: SangWoo Park's Research Team
     </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
 <h4><a name="masters"></a>Master's Students</h4>
 
-N/A
+N/A -->
 
 </div>
 
 <div class="container">
-<h4><a name="alumni"></a>Alumni (Ph.D.)</h4>
+<h4><a name="alumni"></a>Alumni</h4>
 	
 	<div class="row-fluid">
         <div class="span5">
-            Bahareh Kargar<br/>
-
-            <div id="hide_email">
+			1. Caterina Scaioli (MS, 2024) <br/>
+            2. Bahareh Kargar (PhD, 2024): University Lecturer, New Jersey Institute of Technology <br/>
+           <!--  <div id="hide_email">
             Email: <code>bk349@njit.edu</code><br/>
 			MS in Industrial Eng. | Iran University of Science and Tech <br/>
             Research interests: operations research, healthcare management, supply chain design. <br/>
             <a href="{{ BASE_PATH }}/Bahareh Kargar_CV.pdf" target="_blank">Curriculum vitae <img src="icons16/pdf-icon.png" alt="PDF" /></a>
-            </div>
+            </div> -->
         </div>
 		
         <!-- <div class="span2">
@@ -77,7 +77,7 @@ N/A
     </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
 <h4><a name="alumni"></a>Alumni (Master's)</h4>
 	
 	<div class="row-fluid">
@@ -92,20 +92,20 @@ N/A
             </div>
         </div>	
 
-        <!-- <div class="span2">
+        <div class="span2">
 		<a href="../pics/Caterina_Scaioli.png">
 			<img src="../pics/Caterina_Scaioli.png"
 				title="Caterina Scaioli" alt="Caterina Scaioli"/></a>
-		</div> -->
+		</div>
     </div>
 		
-        <!-- <div class="span2">
+        <div class="span2">
 		<a href="../pics/Bahareh_Kargar.png">
 			<img src="../pics/Bahareh_Kargar.png"
 				title="Bahareh Kargar" alt="Bahareh Kargar"/></a>
-		</div> -->
+		</div>
     </div>
-</div>
+</div> -->
 
 <style>
   .row-fluid {
