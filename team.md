@@ -48,6 +48,13 @@ description: SangWoo Park's Research Team
 </div>
 
 <div class="container">
+<h4><a name="masters"></a>Master's Students</h4>
+
+N/A
+
+</div>
+
+<div class="container">
 <h4><a name="alumni"></a>Alumni (Ph.D.)</h4>
 	
 	<div class="row-fluid">
@@ -62,18 +69,18 @@ description: SangWoo Park's Research Team
             </div>
         </div>
 		
-        <div class="span2">
+        <!-- <div class="span2">
 		<a href="../pics/Bahareh_Kargar.png">
 			<img src="../pics/Bahareh_Kargar.png"
 				title="Bahareh Kargar" alt="Bahareh Kargar"/></a>
-		</div>
+		</div> -->
     </div>
 </div>
 
 <div class="container">
-<h4><a name="masters"></a>Master's Students</h4>
-
-    <div class="row-fluid">
+<h4><a name="alumni"></a>Alumni (Master's)</h4>
+	
+	<div class="row-fluid">
         <div class="span5">
             Caterina Scaioli<br/>
 
@@ -85,11 +92,18 @@ description: SangWoo Park's Research Team
             </div>
         </div>	
 
-        <div class="span2">
+        <!-- <div class="span2">
 		<a href="../pics/Caterina_Scaioli.png">
 			<img src="../pics/Caterina_Scaioli.png"
 				title="Caterina Scaioli" alt="Caterina Scaioli"/></a>
-		</div>
+		</div> -->
+    </div>
+		
+        <!-- <div class="span2">
+		<a href="../pics/Bahareh_Kargar.png">
+			<img src="../pics/Bahareh_Kargar.png"
+				title="Bahareh Kargar" alt="Bahareh Kargar"/></a>
+		</div> -->
     </div>
 </div>
 
