@@ -79,11 +79,13 @@ description: SangWoo Park's news
 </script>
 * August 2024: I have been appointed into the Conference Editorial Board of IEEE Control Systems Society and Associate Editor of the [American Control Conference](https://www.ieeecss.org/event/2025-american-control-conference).
 
+* February 2024: Project funded by UPS titled "Dynamic Bin Allocation Simulation" ($67,709, funded as co-PI)
+
 * November 2023: Congratulations to Kushagra Verma for receiving the 2023 Fall [URI Seed Grant](https://centers.njit.edu/uri/programs/index.php) (phase 2: $3000) on the topic of "Bioenergy Optimization: Enhancing Anaerobic Digestion for Maximum Biogas Output."
 
 * November 2023: Congratulations to Irma Melo for receiving the 2023 Fall [URI Seed Grant](https://centers.njit.edu/uri/programs/index.php) (phase 1: $500) on the topic of "Optimizing the Operations of UPS Parcel Sorting System."
 
-* April 2023: Our lab has received the RETDIC Faculty Seed Grant Award from NJIT.
+* April 2023: Our lab has received the RETDIC Faculty Seed Grant Award from NJIT ($10,000, funded as PI).
 
 * August 2022: I have joined the [New Jersey Institute of Technology](https://www.njit.edu/) as an Assistant Professor.
 
