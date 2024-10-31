@@ -59,7 +59,7 @@ N/A
 	
 	<div class="row-fluid">
         <div class="span5">
-			1. Caterina Scaioli (MS, 2024) <br/>
+			1. Caterina Scaioli (MS, 2024): Supplier Quality Engineer, EssilorLuxottica <br/>
             2. Bahareh Kargar (PhD, 2024): University Lecturer, New Jersey Institute of Technology <br/>
            <!--  <div id="hide_email">
             Email: <code>bk349@njit.edu</code><br/>
