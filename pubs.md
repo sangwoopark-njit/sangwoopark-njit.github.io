@@ -43,9 +43,8 @@ Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Prici
 
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orders: A Graph-Aware Reinforcement Learning Approach," in preparation.
 
-Kargar, B., **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
+**Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
 
-Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Modeling circular supply chains resilience: A case study in fashion industry," Twenty-third International Working Seminar on Production Economics.
 
 <br>
 
@@ -92,6 +91,8 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 <br>
 
 ### <a name="conference"></a>Conference Proceedings
+Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Modeling circular supply chains resilience: A case study in fashion industry," Twenty-third International Working Seminar on Production Economics, 2024.
+
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
 [![pdf](icons16/pdf-icon.png)](https://digitalcommons.georgiasouthern.edu/pmhr_2023/6/)
 
