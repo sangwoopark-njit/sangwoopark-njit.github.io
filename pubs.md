@@ -28,7 +28,11 @@ description: SangWoo Park's publications
 [![R/qtl](icons16/R-icon.png)](https://rqtl.org)
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
-### <a name="preprints"></a>Preprints
+### <a name="preprints"></a>Preprints and Recent Publications
+
+Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., Park, S., Ding, F., Baggu, M., Kroposki1, B., NREL Technical Report: "Generative AI for Power Grid Operations."
+[![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf)
+ 
 Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems.”
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Review_D_opt_2024.pdf)<br/>
 
