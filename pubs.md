@@ -39,9 +39,11 @@ Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Opt
 **Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” arXiv 2024. 
 [![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/2404.07898) 
 
-Kargar, B., **Park, S.**, “Learning Heterogeneous Elasticity and Dynamic Pricing of Rewards for Demand Response,” submitted.
+Kargar, B., **Park, S.**, “Assessing the Value of Heterogeneous Elasticities for Incentive-based Residential Demand Response,” submitted.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Heterogeneous_Demand_Response_2024.pdf)<br/>
 
-Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Delivery of Restaurant Orders: A Graph-Aware Reinforcement Learning Approach," in preparation.
+Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restaurant Orders: A Capacity-Constrained K-means Clustering Approach," submitted.
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Multi_Pickup_Delivery_2024.pdf)<br/>
 
 **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
 
