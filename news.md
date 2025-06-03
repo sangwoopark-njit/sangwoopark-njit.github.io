@@ -79,7 +79,7 @@ description: SangWoo Park's news
 </script>
 * March 2025: Our lab has received the Grace-Hopper AI Research Institute Seed Grant Award ($50,000, funded as PI) on the topic of "Optimal Structural Design for Safe Automobiles Using AI-Powered Finite Element Analysis."
 
-* February 2025: Our lab has received the [Grace-Hopper AI Research Institute Seed Grant Award] (https://news.njit.edu/njits-grace-hopper-ai-research-institute-launches-1-million-research-proposals) ($50,000, funded as Co-PI) on the topic of "AI-driven Dynamic Power Network Formation Using Swarm Robots."
+* February 2025: Our lab has received the [Grace-Hopper AI Research Institute Seed Grant Award](https://news.njit.edu/njits-grace-hopper-ai-research-institute-launches-1-million-research-proposals) ($50,000, funded as Co-PI) on the topic of "AI-driven Dynamic Power Network Formation Using Swarm Robots."
 
 * August 2024: I have been appointed into the Conference Editorial Board of IEEE Control Systems Society and Associate Editor of the [American Control Conference](https://www.ieeecss.org/event/2025-american-control-conference).
 
