@@ -61,7 +61,7 @@ N/A
         <div class="span7">
 			1. Caterina Scaioli (MS, 2024): Supplier Quality Engineer, EssilorLuxottica <br/>
             2. Bahareh Kargar (PhD, 2024): University Lecturer, New Jersey Institute of Technology <br/>
-			3. Elson Cibaku (PhD, 2025): Assistant Professor, to join SUNY Plattsburgh in Fall 2025 <br/>
+			3. Elson Cibaku (PhD, 2025): to join SUNY Plattsburgh as Assistant Professor in Fall 2025 <br/>
            <!--  <div id="hide_email">
             Email: <code>bk349@njit.edu</code><br/>
 			MS in Industrial Eng. | Iran University of Science and Tech <br/>
