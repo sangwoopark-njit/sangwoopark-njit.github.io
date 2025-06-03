@@ -77,7 +77,13 @@ description: SangWoo Park's news
     figure.src = `publpics/${figures[currentFigureIndex]}`;
   }
 </script>
+* March 2025: Our lab has received the Grace-Hopper AI Research Institute Seed Grant Award ($50,000, funded as PI) on the topic of "Optimal Structural Design for Safe Automobiles Using AI-Powered Finite Element Analysis."
+
+* February 2025: Our lab has received the Grace-Hopper AI Research Institute Seed Grant Award ($50,000, funded as Co-PI) on the topic of "AI-driven Dynamic Power Network Formation Using Swarm Robots."
+
 * August 2024: I have been appointed into the Conference Editorial Board of IEEE Control Systems Society and Associate Editor of the [American Control Conference](https://www.ieeecss.org/event/2025-american-control-conference).
+
+* April 2024: Congratulations to Kushagra Verma for receiving the 2025 Summer [URI Seed Grant](https://centers.njit.edu/uri/programs/index.php) ($5000) on the topic of "AI-Powered Carbon Credit Verification: A Data-Driven Approach to Optimizing Market Efficiency."
 
 * February 2024: Project funded by UPS titled "Dynamic Bin Allocation Simulation" ($67,709, funded as co-PI)
 
