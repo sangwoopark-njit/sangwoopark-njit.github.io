@@ -30,6 +30,8 @@ description: SangWoo Park's publications
 
 ### <a name="preprints"></a>Preprints and Recent Publications
 
+Taghieh, A., Cibaku, E., **Park, S.**, "Learning Koopman Observables via Kolmogorov-Arnold Networks for Power System Transient Analysis and Model Predictive Control," accepted for presentation at 2025 64th IEEE Conference on Decision and Control (CDC).
+
 Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S.**, Ding, F., Baggu, M., Kroposki, B., NREL Technical Report: "Generative AI for Power Grid Operations."
 [![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf)
  
