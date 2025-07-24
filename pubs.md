@@ -39,9 +39,6 @@ Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Opt
 **Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” arXiv 2024. 
 [![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/2404.07898) 
 
-Kargar, B., **Park, S.**, “Assessing the Value of Heterogeneous Elasticities for Incentive-based Residential Demand Response,” submitted.
-[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Heterogeneous_Demand_Response_2024.pdf)<br/>
-
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restaurant Orders: A Capacity-Constrained K-means Clustering Approach," submitted.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Multi_Pickup_Delivery_2024.pdf)<br/>
 
@@ -51,6 +48,13 @@ Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restauran
 <br>
 
 ### <a name="articles"></a>Journal Articles
+
+#### 2025
+Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Resilience of Circular Supply Chains: Analyzing the impact of take-back strategies via efficient computation of post-disturbance equilibrium," 
+Sustainable Development. <br/>
+
+Kargar, B., **Park, S.**, “Assessing the Value of Heterogeneous Elasticities for Incentive-based Residential Demand Response,” IEEE Access (Early Access).
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11088113)<br/>
 
 #### 2024
 Cibaku, E., **Park, S.**, “Boosting Efficiency in State Estimation of Power Systems by Leveraging Attention Mechanism,” Energy and AI, vol.16, 2024. 
