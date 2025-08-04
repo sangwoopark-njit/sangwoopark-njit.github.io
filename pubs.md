@@ -53,10 +53,10 @@ Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restauran
 
 #### 2025
 Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Resilience of Circular Supply Chains: Analyzing the impact of take-back strategies via efficient computation of post-disturbance equilibrium," 
-Sustainable Development. <br/>
+Sustainable Development. [![pdf](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/10.1002/sd.70119) <br/>
 
 Kargar, B., **Park, S.**, “Assessing the Value of Heterogeneous Elasticities for Incentive-based Residential Demand Response,” IEEE Access (Early Access).
-[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11088113)<br/>
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11088113?source=authoralert)<br/>
 
 #### 2024
 Cibaku, E., **Park, S.**, “Boosting Efficiency in State Estimation of Power Systems by Leveraging Attention Mechanism,” Energy and AI, vol.16, 2024. 
