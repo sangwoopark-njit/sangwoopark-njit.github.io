@@ -38,9 +38,6 @@ Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S
 Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems.”
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Review_D_opt_2024.pdf)<br/>
 
-**Park, S.**, Pandey, A., “Anomaly Detection in Power Grids via Context-Agnostic Learning,” arXiv 2024. 
-[![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/2404.07898) 
-
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restaurant Orders: A Capacity-Constrained K-means Clustering Approach," submitted.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Multi_Pickup_Delivery_2024.pdf)<br/>
 
@@ -99,6 +96,9 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 <br>
 
 ### <a name="conference"></a>Conference Proceedings
+**Park, S.**, Pandey, A., “Power System Anomaly Detection via Context-Aware Learning,” 2025 IEEE Power \& Energy Society General Meeting (PESGM). 
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11225347) 
+
 Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Modeling circular supply chains resilience: A case study in fashion industry," Twenty-third International Working Seminar on Production Economics, 2024.
 
 **Park, S.**, Giannoccaro, I., Abdel-Malek, L., “A Measure of Resilience for Circular Supply Chains and its Implications for Material Handling of Recyclables,” 2023 International Material Handling Research Colloquium (IMHRC).
