@@ -77,7 +77,7 @@ description: SangWoo Park's news
     figure.src = `publpics/${figures[currentFigureIndex]}`;
   }
 </script>
-* March 2025: Our lab has received the Grace-Hopper AI Research Institute Seed Grant Award ($50,000, funded as PI) on the topic of "Optimal Structural Design for Safe Automobiles Using AI-Powered Finite Element Analysis."
+* March 2025: Our lab has received the [Grace-Hopper AI Research Institute Seed Grant Award](https://news.njit.edu/njits-grace-hopper-ai-research-institute-launches-1-million-research-proposals) ($50,000, funded as PI) on the topic of "Optimal Structural Design for Safe Automobiles Using AI-Powered Finite Element Analysis."
 
 * February 2025: Our lab has received the [Grace-Hopper AI Research Institute Seed Grant Award](https://news.njit.edu/njits-grace-hopper-ai-research-institute-launches-1-million-research-proposals) ($50,000, funded as Co-PI) on the topic of "AI-driven Dynamic Power Network Formation Using Swarm Robots."
 
