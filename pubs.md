@@ -35,13 +35,13 @@ Taghieh, A., Cibaku, E., **Park, S.**, "Learning Koopman Observables via Kolmogo
 Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S.**, Ding, F., Baggu, M., Kroposki, B., NREL Technical Report: "Generative AI for Power Grid Operations."
 [![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf)
  
-Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems.”
+Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems,” IEEE Systems Journal (early access)
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Review_D_opt_2024.pdf)<br/>
 
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restaurant Orders: A Capacity-Constrained K-means Clustering Approach," submitted.
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Multi_Pickup_Delivery_2024.pdf)<br/>
 
-**Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
+# **Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. 
 
 
 <br>
