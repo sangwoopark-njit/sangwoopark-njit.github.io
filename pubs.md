@@ -96,7 +96,7 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 <br>
 
 ### <a name="conference"></a>Conference Proceedings
-**Park, S.**, Pandey, A., “Power System Anomaly Detection via Context-Aware Learning,” 2025 IEEE Power \& Energy Society General Meeting (PESGM). 
+**Park, S.**, Pandey, A., “Power System Anomaly Detection via Context-Aware Learning,” 2025 IEEE Power & Energy Society General Meeting (PESGM). 
 [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11225347) 
 
 Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Modeling circular supply chains resilience: A case study in fashion industry," Twenty-third International Working Seminar on Production Economics, 2024.
