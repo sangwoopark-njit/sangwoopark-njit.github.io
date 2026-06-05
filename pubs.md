@@ -29,7 +29,7 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints and Recent Publications
-Taghieh, A., **Park, S.**, "Stability Guarantees for Data-Driven Predictive Control of Nonlinear Systems via Approximate Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
+Taghieh, A., **Park, S.**, "Stability of Data-Driven Predictive Control for Nonlinear Systems via Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/L-CSS_CDC_2026.pdf)<br/>
 
 Taghieh, A., Cibaku, E., **Park, S.**, "Learning Koopman Observables via Kolmogorov-Arnold Networks for Power System Transient Analysis and Model Predictive Control," accepted for presentation at 2025 64th IEEE Conference on Decision and Control (CDC).
