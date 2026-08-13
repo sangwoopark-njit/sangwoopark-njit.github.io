@@ -37,11 +37,12 @@ Taghieh, A., Cibaku, E., **Park, S.**, "Learning Koopman Observables via Kolmogo
 Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S.**, Ding, F., Baggu, M., Kroposki, B., NREL Technical Report: "Generative AI for Power Grid Operations."
 [![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf)
  
-Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems,” IEEE Systems Journal (early access)
+Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems,” IEEE Systems Journal, vol.19, 2025.
 [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11222774)
 
 KC, P., Taghieh, A. Palacios, M., Rashidioun, M., Swissler, P., **Park, S.**, "Optimal Reconfiguration of Distributed Battery Networks Under Connectivity and Energy Constraints," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2607.01462)
 
+Nandepu, C., Kalepu, L., Ciavarella, G., **Park, S.**, "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Road_Maintenance_Scheduling_IISE.pdf)<br/>
 
 Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restaurant Orders: A Capacity-Constrained K-means Clustering Approach," submitted.
 <!--[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Multi_Pickup_Delivery_2024.pdf)<br/> -->
