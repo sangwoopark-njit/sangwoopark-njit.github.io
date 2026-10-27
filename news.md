@@ -77,6 +77,8 @@ description: SangWoo Park's news
     figure.src = `publpics/${figures[currentFigureIndex]}`;
   }
 </script>
+* September 2026: Our lab, in collaboration with Chungnam University (South Korea) has received the [NRF Glocal R&D Support Program]($220,000, funded as Co-PI) on the topic of "Optimal Operation and Reinforcement Learning-Based Real-Time Control for Variable-Speed Pumped Storage Hydropower Considering Dynamic and Degradation Characteristics."
+
 * March 2025: Our lab has received the [Grace-Hopper AI Research Institute Seed Grant Award](https://news.njit.edu/njits-grace-hopper-ai-research-institute-launches-1-million-research-proposals) ($50,000, funded as PI) on the topic of "Optimal Structural Design for Safe Automobiles Using AI-Powered Finite Element Analysis."
 
 * February 2025: Our lab has received the [Grace-Hopper AI Research Institute Seed Grant Award](https://news.njit.edu/njits-grace-hopper-ai-research-institute-launches-1-million-research-proposals) ($50,000, funded as Co-PI) on the topic of "AI-driven Dynamic Power Network Formation Using Swarm Robots."
