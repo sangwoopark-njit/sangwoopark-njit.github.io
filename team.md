@@ -42,8 +42,8 @@ description: SangWoo Park's Research Team
         </div>	
 
         <div class="span2">
-		<a href="../pics/Ali_Fallah.jpeg">
-			<img src="../pics/Ali_Fallah.jpeg"
+		<a href="../pics/Ali_Fallah.jpg">
+			<img src="../pics/Ali_Fallah.jpg"
 				title="Ali Fallah" alt="Ali Fallah"/></a>
 		</div>
     </div>
