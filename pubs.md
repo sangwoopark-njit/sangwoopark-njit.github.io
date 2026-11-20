@@ -29,6 +29,7 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints and Recent Publications
+Park, S., Kwon, K., Kim, D., "Scheduling of Variable-Speed Pumped Storage via Hierarchical Reinforcement Learning," on arXiv. [![pdf](icons16/pdf-icon.png)]()
 
 Kwon, K., Park, S., Kim, D., "Stochastic multi-segment scheduling of variable-speed pumped storage hydropower for energy and ancillary services provision," accepted to Journal of Energy Storage. [![pdf](icons16/pdf-icon.png)](https://www.sciencedirect.com/science/article/pii/S2352152X26052047)
 
@@ -43,17 +44,15 @@ KC, P., Taghieh, A. Palacios, M., Rashidioun, M., Swissler, P., Park, S., "Optim
 
 Nandepu, C., Kalepu, L., Ciavarella, G., Park, S., "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Road_Maintenance_Scheduling_IISE.pdf)<br/>
 
-Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S.**, Ding, F., Baggu, M., Kroposki, B., NREL Technical Report: "Generative AI for Power Grid Operations."
-[![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf)
-
 <!--**Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. -->
 <br>
 
 ### <a name="articles"></a>Journal Articles
 #### 2026
-
 Taghieh, A., **Park, S.**, "Stability of Data-Driven Predictive Control for Nonlinear Systems via Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/L-CSS_CDC_2026.pdf)<br/>
+
+Cho, S., Park, S., Cheon, S., "Design of multi-density foam-cell headrest using focus scattering whale optimisation," International Journal of Crashworthiness. [![pdf](icons16/pdf-icon.png)](https://www.tandfonline.com/doi/abs/10.1080/13588265.2026.2727713)
 
 #### 2025
 Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems,” IEEE Systems Journal, vol.19, 2025.
@@ -141,7 +140,10 @@ Hobbs, B.F., Ho, J.L., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, 
 Ho, J.L., Hobbs, B.F., Donohoo-Vallett, P.E., Xu, Q., Kasina, S., **Park, S.**, Ouyang, Y., 
 “Planning Transmission for Uncertainty: Applications and Lessons with the Western Interconnection” 
 – Technical Report prepared for WECC and Lawrence Berkeley National Laboratory, 2016.
-[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Planning-for-Uncertainty-Final-Report.pdf)<br/>
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Planning-for-Uncertainty-Final-Report.pdf)
+
+Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S.**, Ding, F., Baggu, M., Kroposki, B., NREL Technical Report: "Generative AI for Power Grid Operations."
+[![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf) <br/>
 
 <br>
 ### <a name="thesis"></a>Dissertation
