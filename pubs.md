@@ -29,11 +29,13 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints and Recent Publications
-Park, S., Kwon, K., Kim, D., "Scheduling of Variable-Speed Pumped Storage via Hierarchical Reinforcement Learning," on arXiv. [![pdf](icons16/pdf-icon.png)]()
+Park, S., Kwon, K., Kim, D., "Scheduling of Variable-Speed Pumped Storage via Hierarchical Reinforcement Learning," under review and on arXiv. [![pdf](icons16/pdf-icon.png)]()
 
 Kwon, K., Park, S., Kim, D., "Stochastic multi-segment scheduling of variable-speed pumped storage hydropower for energy and ancillary services provision," accepted to Journal of Energy Storage. [![pdf](icons16/pdf-icon.png)](https://www.sciencedirect.com/science/article/pii/S2352152X26052047)
 
-Kwon, K., Park, S., Kim, D., "Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning," on arXiv. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/2607.06911)
+Kwon, K., Park, S., Kim, D., "Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning," under review and on arXiv. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/2607.06911)
+
+Park, S., Cibaku, E., Das, S., "Marginal-Cost Clustering for Courier Dispatch: A Parallel Decomposition for Pickup and Delivery with Time Windows and Fleet Sizing," under review and on arXiv. [![pdf](icons16/pdf-icon.png)]()
 
 Taghieh, A., Park, S., "Stability of Data-Driven Predictive Control for Nonlinear Systems via Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/L-CSS_CDC_2026.pdf)<br/>
