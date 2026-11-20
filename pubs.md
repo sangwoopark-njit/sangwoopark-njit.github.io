@@ -30,7 +30,7 @@ description: SangWoo Park's publications
 
 ### <a name="preprints"></a>Preprints and Recent Publications
 
-Kwon, K., Park, S., Kim, D., "Stochastic multi-segment scheduling of variable-speed pumped storage hydropower for energy and ancillary services provision," accepted to Journal of Energy Storage. [![pdf](icons16/pdf-icon.png)] (https://www.sciencedirect.com/science/article/pii/S2352152X26052047)
+Kwon, K., Park, S., Kim, D., "Stochastic multi-segment scheduling of variable-speed pumped storage hydropower for energy and ancillary services provision," accepted to Journal of Energy Storage. [![pdf](icons16/pdf-icon.png)](https://www.sciencedirect.com/science/article/pii/S2352152X26052047)
 
 Kwon, K., Park, S., Kim, D., "Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning," on arXiv. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/2607.06911)
 
