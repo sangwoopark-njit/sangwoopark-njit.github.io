@@ -29,30 +29,36 @@ description: SangWoo Park's publications
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1007/978-0-387-92125-9) -->
 
 ### <a name="preprints"></a>Preprints and Recent Publications
-Taghieh, A., **Park, S.**, "Stability of Data-Driven Predictive Control for Nonlinear Systems via Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
+
+Kwon, K., Park, S., Kim, D., "Stochastic multi-segment scheduling of variable-speed pumped storage hydropower for energy and ancillary services provision," accepted to Journal of Energy Storage. [![pdf](icons16/pdf-icon.png)] (https://www.sciencedirect.com/science/article/pii/S2352152X26052047)
+
+Kwon, K., Park, S., Kim, D., "Degradation-Aware Pumping Control of Variable-Speed Pumped Storage via Residual Reinforcement Learning," on arXiv. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/2607.06911)
+
+Taghieh, A., Park, S., "Stability of Data-Driven Predictive Control for Nonlinear Systems via Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/L-CSS_CDC_2026.pdf)<br/>
 
-Taghieh, A., Cibaku, E., **Park, S.**, "Learning Koopman Observables via Kolmogorov-Arnold Networks for Power System Transient Analysis and Model Predictive Control," accepted for presentation at 2025 64th IEEE Conference on Decision and Control (CDC). [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11311977)
+M., Rashidioun, M., Park, S., Swissler, P., "DeRP: An Algorithm for Self-Assembly of Power-Delivery Networks using Recursive Branching in Information-Limited Environments," accepted and presented at International Conference on Intelligent Robots and Systems (IROS) 2026, [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/2608.02904)
+ 
+KC, P., Taghieh, A. Palacios, M., Rashidioun, M., Swissler, P., Park, S., "Optimal Reconfiguration of Distributed Battery Networks Under Connectivity and Energy Constraints," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2607.01462)
+
+Nandepu, C., Kalepu, L., Ciavarella, G., Park, S., "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Road_Maintenance_Scheduling_IISE.pdf)<br/>
 
 Choi, S., Jain, R., Feng, C., Emami, P., Zhang, H., Hong, J., Kim, T., **Park, S.**, Ding, F., Baggu, M., Kroposki, B., NREL Technical Report: "Generative AI for Power Grid Operations."
 [![pdf](icons16/pdf-icon.png)](https://www.nrel.gov/docs/fy25osti/91176.pdf)
- 
-Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems,” IEEE Systems Journal, vol.19, 2025.
-[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11222774)
-
-KC, P., Taghieh, A. Palacios, M., Rashidioun, M., Swissler, P., **Park, S.**, "Optimal Reconfiguration of Distributed Battery Networks Under Connectivity and Energy Constraints," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/pdf/2607.01462)
-
-Nandepu, C., Kalepu, L., Ciavarella, G., **Park, S.**, "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows," IISE Annual Conference & Expo 2026. [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Road_Maintenance_Scheduling_IISE.pdf)<br/>
-
-Cibaku, E., Das, S., **Park, S.**, "Multi-Pickup and Multi-Delivery of Restaurant Orders: A Capacity-Constrained K-means Clustering Approach," submitted.
-<!--[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/Multi_Pickup_Delivery_2024.pdf)<br/> -->
 
 <!--**Park, S.**, Chien, S., “Optimal Scheduling for Maintenance of Road Network with Simultaneous Projects and Time-varying Traffic,” in preparation. -->
 <br>
 
 ### <a name="articles"></a>Journal Articles
+#### 2026
+
+Taghieh, A., **Park, S.**, "Stability of Data-Driven Predictive Control for Nonlinear Systems via Koopman Embeddings," accepted to IEEE Control Systems Letters (L-CSS).
+[![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/L-CSS_CDC_2026.pdf)<br/>
 
 #### 2025
+Al-Tawaha, A., Cibaku, E., **Park, S.**, Jin, M., Lavaei, J., “Distributed Optimization and Learning: A Paradigm Shift for Power Systems,” IEEE Systems Journal, vol.19, 2025.
+[![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11222774)
+
 Cafforio, F., **Park, S.**, Giannoccaro, I., Abdel-Malek, L., "Resilience of Circular Supply Chains: Analyzing the impact of take-back strategies via efficient computation of post-disturbance equilibrium," 
 Sustainable Development, 2025. [![pdf](icons16/pdf-icon.png)](https://onlinelibrary.wiley.com/doi/10.1002/sd.70119) <br/>
 
@@ -100,6 +106,8 @@ IEEE Power and Energy Magazine, vol.14(4), pp. 30-40, 2016.
 <br>
 
 ### <a name="conference"></a>Conference Proceedings
+Taghieh, A., Cibaku, E., **Park, S.**, "Learning Koopman Observables via Kolmogorov-Arnold Networks for Power System Transient Analysis and Model Predictive Control," accepted for presentation at 2025 64th IEEE Conference on Decision and Control (CDC). [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11311977)
+
 **Park, S.**, Pandey, A., “Power System Anomaly Detection via Context-Aware Learning,” 2025 IEEE Power & Energy Society General Meeting (PESGM). 
 [![pdf](icons16/pdf-icon.png)](https://ieeexplore.ieee.org/document/11225347) 
 
